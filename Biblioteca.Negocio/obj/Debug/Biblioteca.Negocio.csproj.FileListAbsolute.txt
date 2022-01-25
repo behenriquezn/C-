@@ -1,0 +1,162 @@
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Biblioteca.Negocio\bin\Debug\Biblioteca.Negocio.dll.config
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Biblioteca.Negocio\bin\Debug\Biblioteca.Negocio.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Biblioteca.Negocio\bin\Debug\Biblioteca.Negocio.pdb
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Biblioteca.Negocio\bin\Debug\Biblioteca.DALC.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Biblioteca.Negocio\bin\Debug\EntityFramework.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Biblioteca.Negocio\bin\Debug\Biblioteca.DALC.pdb
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Biblioteca.Negocio\bin\Debug\Biblioteca.DALC.dll.config
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Biblioteca.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.csprojAssemblyReference.cache
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.csproj.CopyComplete
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.pdb
+\\Mac\Home\Documents\Prueba2-master\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Prueba2-master\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Prueba2-master\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.dll
+\\Mac\Home\Documents\Prueba2-master\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.pdb
+\\Mac\Home\Documents\Prueba2-master\Biblioteca.Negocio\bin\Debug\Biblioteca.Negocio.dll.config
+\\Mac\Home\Documents\Prueba2-master\Biblioteca.Negocio\bin\Debug\Biblioteca.Negocio.dll
+\\Mac\Home\Documents\Prueba2-master\Biblioteca.Negocio\bin\Debug\Biblioteca.Negocio.pdb
+\\Mac\Home\Documents\Prueba2-master\Biblioteca.Negocio\bin\Debug\Biblioteca.DALC.dll
+\\Mac\Home\Documents\Prueba2-master\Biblioteca.Negocio\bin\Debug\EntityFramework.dll
+\\Mac\Home\Documents\Prueba2-master\Biblioteca.Negocio\bin\Debug\Biblioteca.DALC.pdb
+\\Mac\Home\Documents\Prueba2-master\Biblioteca.Negocio\bin\Debug\Biblioteca.DALC.dll.config
+\\Mac\Home\Documents\Prueba2-master\Biblioteca.Negocio\bin\Debug\EntityFramework.xml
+\\Mac\Home\Documents\Prueba2-master\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.csproj.CopyComplete
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Biblioteca.Negocio\bin\Debug\Biblioteca.Negocio.dll.config
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Biblioteca.Negocio\bin\Debug\Biblioteca.Negocio.dll
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Biblioteca.Negocio\bin\Debug\Biblioteca.Negocio.pdb
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Biblioteca.Negocio\bin\Debug\Biblioteca.DALC.dll
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Biblioteca.Negocio\bin\Debug\EntityFramework.dll
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Biblioteca.Negocio\bin\Debug\Biblioteca.DALC.pdb
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Biblioteca.Negocio\bin\Debug\Biblioteca.DALC.dll.config
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Biblioteca.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.csproj.CopyComplete
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.dll
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.pdb
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.2\Biblioteca.Negocio\bin\Debug\Biblioteca.Negocio.dll.config
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.2\Biblioteca.Negocio\bin\Debug\Biblioteca.Negocio.dll
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.2\Biblioteca.Negocio\bin\Debug\Biblioteca.Negocio.pdb
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.2\Biblioteca.Negocio\bin\Debug\Biblioteca.DALC.dll
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.2\Biblioteca.Negocio\bin\Debug\EntityFramework.dll
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.2\Biblioteca.Negocio\bin\Debug\Biblioteca.DALC.pdb
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.2\Biblioteca.Negocio\bin\Debug\Biblioteca.DALC.dll.config
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.2\Biblioteca.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.2\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.2\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.csproj.CopyComplete
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.2\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.dll
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.2\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.pdb
+\\Mac\Home\Documents\Prueba2-master v2.0\Biblioteca.Negocio\bin\Debug\Biblioteca.Negocio.dll.config
+\\Mac\Home\Documents\Prueba2-master v2.0\Biblioteca.Negocio\bin\Debug\Biblioteca.Negocio.dll
+\\Mac\Home\Documents\Prueba2-master v2.0\Biblioteca.Negocio\bin\Debug\Biblioteca.Negocio.pdb
+\\Mac\Home\Documents\Prueba2-master v2.0\Biblioteca.Negocio\bin\Debug\Biblioteca.DALC.dll
+\\Mac\Home\Documents\Prueba2-master v2.0\Biblioteca.Negocio\bin\Debug\EntityFramework.dll
+\\Mac\Home\Documents\Prueba2-master v2.0\Biblioteca.Negocio\bin\Debug\Biblioteca.DALC.pdb
+\\Mac\Home\Documents\Prueba2-master v2.0\Biblioteca.Negocio\bin\Debug\Biblioteca.DALC.dll.config
+\\Mac\Home\Documents\Prueba2-master v2.0\Biblioteca.Negocio\bin\Debug\EntityFramework.xml
+\\Mac\Home\Documents\Prueba2-master v2.0\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Prueba2-master v2.0\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Prueba2-master v2.0\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.csproj.CopyComplete
+\\Mac\Home\Documents\Prueba2-master v2.0\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.dll
+\\Mac\Home\Documents\Prueba2-master v2.0\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.pdb
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Biblioteca.Negocio\bin\Debug\Biblioteca.Negocio.dll.config
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Biblioteca.Negocio\bin\Debug\Biblioteca.Negocio.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Biblioteca.Negocio\bin\Debug\Biblioteca.Negocio.pdb
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Biblioteca.Negocio\bin\Debug\Biblioteca.DALC.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Biblioteca.Negocio\bin\Debug\EntityFramework.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Biblioteca.Negocio\bin\Debug\Biblioteca.DALC.pdb
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Biblioteca.Negocio\bin\Debug\Biblioteca.DALC.dll.config
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Biblioteca.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.csprojAssemblyReference.cache
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.csproj.CopyComplete
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.pdb
+C:\Users\Freddy\Documents\CONTINGENCIA\DEY\PROBLEMAS\Nueva carpeta (14)\Prueba2-master\Biblioteca.Negocio\bin\Debug\Biblioteca.Negocio.dll.config
+C:\Users\Freddy\Documents\CONTINGENCIA\DEY\PROBLEMAS\Nueva carpeta (14)\Prueba2-master\Biblioteca.Negocio\bin\Debug\Biblioteca.Negocio.dll
+C:\Users\Freddy\Documents\CONTINGENCIA\DEY\PROBLEMAS\Nueva carpeta (14)\Prueba2-master\Biblioteca.Negocio\bin\Debug\Biblioteca.Negocio.pdb
+C:\Users\Freddy\Documents\CONTINGENCIA\DEY\PROBLEMAS\Nueva carpeta (14)\Prueba2-master\Biblioteca.Negocio\bin\Debug\Biblioteca.DALC.dll
+C:\Users\Freddy\Documents\CONTINGENCIA\DEY\PROBLEMAS\Nueva carpeta (14)\Prueba2-master\Biblioteca.Negocio\bin\Debug\EntityFramework.dll
+C:\Users\Freddy\Documents\CONTINGENCIA\DEY\PROBLEMAS\Nueva carpeta (14)\Prueba2-master\Biblioteca.Negocio\bin\Debug\Biblioteca.DALC.pdb
+C:\Users\Freddy\Documents\CONTINGENCIA\DEY\PROBLEMAS\Nueva carpeta (14)\Prueba2-master\Biblioteca.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\Freddy\Documents\CONTINGENCIA\DEY\PROBLEMAS\Nueva carpeta (14)\Prueba2-master\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.dll
+C:\Users\Freddy\Documents\CONTINGENCIA\DEY\PROBLEMAS\Nueva carpeta (14)\Prueba2-master\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.pdb
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Biblioteca.Negocio\bin\Debug\Biblioteca.Negocio.dll.config
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Biblioteca.Negocio\bin\Debug\Biblioteca.Negocio.dll
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Biblioteca.Negocio\bin\Debug\Biblioteca.Negocio.pdb
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Biblioteca.Negocio\bin\Debug\Biblioteca.DALC.dll
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Biblioteca.Negocio\bin\Debug\EntityFramework.dll
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Biblioteca.Negocio\bin\Debug\Biblioteca.DALC.pdb
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Biblioteca.Negocio\bin\Debug\Biblioteca.DALC.dll.config
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Biblioteca.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.csprojAssemblyReference.cache
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.csproj.CopyComplete
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.dll
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.pdb
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.pdb
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\Biblioteca.Negocio\bin\Debug\Biblioteca.Negocio.dll.config
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\Biblioteca.Negocio\bin\Debug\Biblioteca.Negocio.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\Biblioteca.Negocio\bin\Debug\Biblioteca.Negocio.pdb
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\Biblioteca.Negocio\bin\Debug\Biblioteca.DALC.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\Biblioteca.Negocio\bin\Debug\EntityFramework.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\Biblioteca.Negocio\bin\Debug\Biblioteca.DALC.pdb
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\Biblioteca.Negocio\bin\Debug\Biblioteca.DALC.dll.config
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\Biblioteca.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.csproj.CopyComplete
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\Biblioteca.Negocio\bin\Debug\Biblioteca.Negocio.dll.config
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\Biblioteca.Negocio\bin\Debug\Biblioteca.Negocio.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\Biblioteca.Negocio\bin\Debug\Biblioteca.Negocio.pdb
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\Biblioteca.Negocio\bin\Debug\Biblioteca.DALC.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\Biblioteca.Negocio\bin\Debug\EntityFramework.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\Biblioteca.Negocio\bin\Debug\Biblioteca.DALC.pdb
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\Biblioteca.Negocio\bin\Debug\Biblioteca.DALC.dll.config
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\Biblioteca.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.csprojAssemblyReference.cache
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.csproj.CopyComplete
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.pdb
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Biblioteca.Negocio\bin\Debug\Biblioteca.Negocio.dll.config
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Biblioteca.Negocio\bin\Debug\Biblioteca.Negocio.dll
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Biblioteca.Negocio\bin\Debug\Biblioteca.Negocio.pdb
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Biblioteca.Negocio\bin\Debug\Biblioteca.DALC.dll
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Biblioteca.Negocio\bin\Debug\EntityFramework.dll
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Biblioteca.Negocio\bin\Debug\Biblioteca.DALC.pdb
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Biblioteca.Negocio\bin\Debug\Biblioteca.DALC.dll.config
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Biblioteca.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.csprojAssemblyReference.cache
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.csproj.CopyComplete
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.dll
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.pdb
+C:\Users\pc\Desktop\Prueba2-master\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\Prueba2-master\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Prueba2-master\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.dll
+C:\Users\pc\Desktop\Prueba2-master\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.pdb
+C:\Users\pc\Desktop\Prueba2-master\Biblioteca.Negocio\bin\Debug\Biblioteca.Negocio.dll.config
+C:\Users\pc\Desktop\Prueba2-master\Biblioteca.Negocio\bin\Debug\Biblioteca.Negocio.dll
+C:\Users\pc\Desktop\Prueba2-master\Biblioteca.Negocio\bin\Debug\Biblioteca.Negocio.pdb
+C:\Users\pc\Desktop\Prueba2-master\Biblioteca.Negocio\bin\Debug\Biblioteca.DALC.dll
+C:\Users\pc\Desktop\Prueba2-master\Biblioteca.Negocio\bin\Debug\EntityFramework.dll
+C:\Users\pc\Desktop\Prueba2-master\Biblioteca.Negocio\bin\Debug\Biblioteca.DALC.pdb
+C:\Users\pc\Desktop\Prueba2-master\Biblioteca.Negocio\bin\Debug\Biblioteca.DALC.dll.config
+C:\Users\pc\Desktop\Prueba2-master\Biblioteca.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\pc\Desktop\Prueba2-master\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.csproj.CopyComplete
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\Biblioteca.Negocio\bin\Debug\Biblioteca.Negocio.dll.config
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\Biblioteca.Negocio\bin\Debug\Biblioteca.Negocio.dll
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\Biblioteca.Negocio\bin\Debug\Biblioteca.Negocio.pdb
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\Biblioteca.Negocio\bin\Debug\Biblioteca.DALC.dll
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\Biblioteca.Negocio\bin\Debug\EntityFramework.dll
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\Biblioteca.Negocio\bin\Debug\Biblioteca.DALC.pdb
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\Biblioteca.Negocio\bin\Debug\Biblioteca.DALC.dll.config
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\Biblioteca.Negocio\bin\Debug\EntityFramework.xml
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.csproj.CopyComplete
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.dll
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.pdb

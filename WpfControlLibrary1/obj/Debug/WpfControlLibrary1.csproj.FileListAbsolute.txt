@@ -1,0 +1,144 @@
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\WpfControlLibrary1\bin\Debug\WpfControlLibrary1.dll
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\WpfControlLibrary1\bin\Debug\WpfControlLibrary1.pdb
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\WpfControlLibrary1\obj\Debug\UserControl1.g.cs
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1_MarkupCompile.cache
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1_MarkupCompile.lref
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\WpfControlLibrary1\obj\Debug\UserControl1.baml
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.g.resources
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.Properties.Resources.resources
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.csproj.GenerateResource.cache
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.dll
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.pdb
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.csprojAssemblyReference.cache
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\WpfControlLibrary1\bin\Debug\WpfControlLibrary1.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\WpfControlLibrary1\bin\Debug\WpfControlLibrary1.pdb
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.csprojAssemblyReference.cache
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\WpfControlLibrary1\obj\Debug\UserControl1.g.cs
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1_MarkupCompile.cache
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1_MarkupCompile.lref
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\WpfControlLibrary1\obj\Debug\UserControl1.baml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.g.resources
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.Properties.Resources.resources
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.csproj.GenerateResource.cache
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.pdb
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2.2\Prueba2-master\WpfControlLibrary1\bin\Debug\WpfControlLibrary1.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2.2\Prueba2-master\WpfControlLibrary1\bin\Debug\WpfControlLibrary1.pdb
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2.2\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.csprojAssemblyReference.cache
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2.2\Prueba2-master\WpfControlLibrary1\obj\Debug\UserControl1.g.cs
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2.2\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1_MarkupCompile.cache
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2.2\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1_MarkupCompile.lref
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2.2\Prueba2-master\WpfControlLibrary1\obj\Debug\UserControl1.baml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2.2\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.g.resources
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2.2\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.Properties.Resources.resources
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2.2\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.csproj.GenerateResource.cache
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2.2\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2.2\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2.2\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.pdb
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\WpfControlLibrary1\bin\Debug\WpfControlLibrary1.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\WpfControlLibrary1\bin\Debug\WpfControlLibrary1.pdb
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.csprojAssemblyReference.cache
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\WpfControlLibrary1\obj\Debug\UserControl1.g.cs
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1_MarkupCompile.cache
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1_MarkupCompile.lref
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\WpfControlLibrary1\obj\Debug\UserControl1.baml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.g.resources
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.Properties.Resources.resources
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.csproj.GenerateResource.cache
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.pdb
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\WpfControlLibrary1\bin\Debug\WpfControlLibrary1.dll
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\WpfControlLibrary1\bin\Debug\WpfControlLibrary1.pdb
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.csprojAssemblyReference.cache
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\WpfControlLibrary1\obj\Debug\UserControl1.g.cs
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1_MarkupCompile.cache
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1_MarkupCompile.lref
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\WpfControlLibrary1\obj\Debug\UserControl1.baml
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.g.resources
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.Properties.Resources.resources
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.csproj.GenerateResource.cache
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.dll
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.pdb
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\WpfControlLibrary1\bin\Debug\WpfControlLibrary1.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\WpfControlLibrary1\bin\Debug\WpfControlLibrary1.pdb
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.csprojAssemblyReference.cache
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\WpfControlLibrary1\obj\Debug\UserControl1.g.cs
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1_MarkupCompile.cache
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1_MarkupCompile.lref
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\WpfControlLibrary1\obj\Debug\UserControl1.baml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.g.resources
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.Properties.Resources.resources
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.csproj.GenerateResource.cache
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.pdb
+C:\Users\pc\Desktop\Prueba2-master\WpfControlLibrary1\bin\Debug\WpfControlLibrary1.dll
+C:\Users\pc\Desktop\Prueba2-master\WpfControlLibrary1\bin\Debug\WpfControlLibrary1.pdb
+C:\Users\pc\Desktop\Prueba2-master\WpfControlLibrary1\obj\Debug\UserControl1.g.cs
+C:\Users\pc\Desktop\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1_MarkupCompile.cache
+C:\Users\pc\Desktop\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1_MarkupCompile.lref
+C:\Users\pc\Desktop\Prueba2-master\WpfControlLibrary1\obj\Debug\UserControl1.baml
+C:\Users\pc\Desktop\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.g.resources
+C:\Users\pc\Desktop\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.Properties.Resources.resources
+C:\Users\pc\Desktop\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.dll
+C:\Users\pc\Desktop\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.pdb
+C:\Users\pc\Desktop\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\Prueba2-master\WpfControlLibrary1\bin\Debug\Biblioteca.DALC.dll
+C:\Users\pc\Desktop\Prueba2-master\WpfControlLibrary1\bin\Debug\Biblioteca.Negocio.dll
+C:\Users\pc\Desktop\Prueba2-master\WpfControlLibrary1\bin\Debug\EntityFramework.dll
+C:\Users\pc\Desktop\Prueba2-master\WpfControlLibrary1\bin\Debug\Biblioteca.DALC.pdb
+C:\Users\pc\Desktop\Prueba2-master\WpfControlLibrary1\bin\Debug\Biblioteca.DALC.dll.config
+C:\Users\pc\Desktop\Prueba2-master\WpfControlLibrary1\bin\Debug\Biblioteca.Negocio.pdb
+C:\Users\pc\Desktop\Prueba2-master\WpfControlLibrary1\bin\Debug\Biblioteca.Negocio.dll.config
+C:\Users\pc\Desktop\Prueba2-master\WpfControlLibrary1\bin\Debug\EntityFramework.xml
+C:\Users\pc\Desktop\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.csproj.CopyComplete
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\WpfControlLibrary1\bin\Debug\WpfControlLibrary1.dll
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\WpfControlLibrary1\bin\Debug\WpfControlLibrary1.pdb
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\WpfControlLibrary1\bin\Debug\Biblioteca.DALC.dll
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\WpfControlLibrary1\bin\Debug\Biblioteca.Negocio.dll
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\WpfControlLibrary1\bin\Debug\EntityFramework.dll
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\WpfControlLibrary1\bin\Debug\Biblioteca.DALC.pdb
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\WpfControlLibrary1\bin\Debug\Biblioteca.DALC.dll.config
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\WpfControlLibrary1\bin\Debug\Biblioteca.Negocio.pdb
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\WpfControlLibrary1\bin\Debug\Biblioteca.Negocio.dll.config
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\WpfControlLibrary1\bin\Debug\EntityFramework.xml
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\WpfControlLibrary1\obj\Debug\UserControl1.g.cs
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1_MarkupCompile.cache
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1_MarkupCompile.lref
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\WpfControlLibrary1\obj\Debug\UserControl1.baml
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.g.resources
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.Properties.Resources.resources
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.csproj.CopyComplete
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.dll
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.pdb
+C:\Users\pc\Downloads\Prueba2-master\WpfControlLibrary1\bin\Debug\WpfControlLibrary1.dll
+C:\Users\pc\Downloads\Prueba2-master\WpfControlLibrary1\bin\Debug\WpfControlLibrary1.pdb
+C:\Users\pc\Downloads\Prueba2-master\WpfControlLibrary1\bin\Debug\Biblioteca.DALC.dll
+C:\Users\pc\Downloads\Prueba2-master\WpfControlLibrary1\bin\Debug\Biblioteca.Negocio.dll
+C:\Users\pc\Downloads\Prueba2-master\WpfControlLibrary1\bin\Debug\EntityFramework.dll
+C:\Users\pc\Downloads\Prueba2-master\WpfControlLibrary1\bin\Debug\Biblioteca.DALC.pdb
+C:\Users\pc\Downloads\Prueba2-master\WpfControlLibrary1\bin\Debug\Biblioteca.DALC.dll.config
+C:\Users\pc\Downloads\Prueba2-master\WpfControlLibrary1\bin\Debug\Biblioteca.Negocio.pdb
+C:\Users\pc\Downloads\Prueba2-master\WpfControlLibrary1\bin\Debug\Biblioteca.Negocio.dll.config
+C:\Users\pc\Downloads\Prueba2-master\WpfControlLibrary1\bin\Debug\EntityFramework.xml
+C:\Users\pc\Downloads\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.csprojAssemblyReference.cache
+C:\Users\pc\Downloads\Prueba2-master\WpfControlLibrary1\obj\Debug\UserControl1.g.cs
+C:\Users\pc\Downloads\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1_MarkupCompile.cache
+C:\Users\pc\Downloads\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1_MarkupCompile.lref
+C:\Users\pc\Downloads\Prueba2-master\WpfControlLibrary1\obj\Debug\UserControl1.baml
+C:\Users\pc\Downloads\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.g.resources
+C:\Users\pc\Downloads\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.Properties.Resources.resources
+C:\Users\pc\Downloads\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.csproj.GenerateResource.cache
+C:\Users\pc\Downloads\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.csproj.CopyComplete
+C:\Users\pc\Downloads\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.dll
+C:\Users\pc\Downloads\Prueba2-master\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.pdb

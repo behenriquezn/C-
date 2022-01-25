@@ -1,0 +1,121 @@
+﻿<Controls:MetroWindow
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Vista"
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+        xmlns:behaviours="clr-namespace:MahApps.Metro.Behaviours;assembly=MahApps.Metro"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"              
+        xmlns:WpfControlLibrary1="clr-namespace:WpfControlLibrary1;assembly=WpfControlLibrary1" x:Class="Vista.AdmiContratos"
+        mc:Ignorable="d"              
+        Title="                                 ADMINISTRACIÓN DE CONTRATOS" Height="647.049" Width="920.671" ResizeMode="NoResize">
+    <Grid Margin="0,0,0,3">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="253*"/>
+            <RowDefinition Height="332*"/>
+        </Grid.RowDefinitions>
+        <Label Content="Número" HorizontalAlignment="Left" Height="29" Margin="10,48,0,0" VerticalAlignment="Top" Width="70" FontFamily="Microsoft JhengHei" FontSize="14" FontWeight="Bold"/>
+        <Label Content="Rut" HorizontalAlignment="Left" Height="26" Margin="10,85,0,0" VerticalAlignment="Top" Width="52" FontFamily="Microsoft JhengHei" FontSize="14" FontWeight="Bold"/>
+        <Label Content="Tipo de Evento" HorizontalAlignment="Left" Height="27" Margin="14,151,0,0" VerticalAlignment="Top" Width="118" FontFamily="Microsoft JhengHei" FontSize="14" FontWeight="Bold"/>
+        <Label Content="Asistentes" HorizontalAlignment="Left" Height="29" Margin="17,199,0,0" VerticalAlignment="Top" Width="87" FontFamily="Microsoft JhengHei" FontSize="14" FontWeight="Bold"/>
+        <Label Content="Fecha y Hora Inicio" HorizontalAlignment="Left" Height="26" Margin="621,105,0,0" VerticalAlignment="Top" Width="141" FontFamily="Microsoft JhengHei" FontSize="14" FontWeight="Bold"/>
+        <Label Content="Fecha y Hora Termino" HorizontalAlignment="Left" Height="29" Margin="634,0,0,0" VerticalAlignment="Top" Width="164" FontFamily="Microsoft JhengHei" FontSize="14" FontWeight="Bold" Grid.Row="1"/>
+        <Label Content="Fecha Creación" HorizontalAlignment="Left" Height="26" Margin="561,9,0,0" VerticalAlignment="Top" Width="115" FontFamily="Microsoft JhengHei" FontSize="14" FontWeight="Bold"/>
+        <Label Content="Modalidad Servicio" HorizontalAlignment="Left" Height="27" Margin="268,151,0,0" VerticalAlignment="Top" Width="141" FontFamily="Microsoft JhengHei" FontSize="14" FontWeight="Bold"/>
+        <Label Content="Personal" HorizontalAlignment="Left" Height="28" Margin="182,200,0,0" VerticalAlignment="Top" Width="75" FontFamily="Microsoft JhengHei" FontSize="14" FontWeight="Bold"/>
+        <Label Content="Personal Adicional" HorizontalAlignment="Left" Height="32" Margin="315,200,0,0" VerticalAlignment="Top" Width="133" FontFamily="Microsoft JhengHei" FontSize="14" FontWeight="Bold"/>
+        <Label Content="Observaciones" HorizontalAlignment="Left" Height="36" Margin="465,11,0,0" VerticalAlignment="Top" Width="120" FontFamily="Microsoft JhengHei" FontSize="14" FontWeight="Bold" Grid.Row="1"/>
+        <Label Content="Valor Base Evento" HorizontalAlignment="Left" Height="26" Margin="561,151,0,0" VerticalAlignment="Top" Width="176" FontFamily="Microsoft JhengHei" FontSize="14" FontWeight="Bold" Grid.Row="1"/>
+        <Label Content="Valor por Asistente" HorizontalAlignment="Left" Height="31" Margin="561,184,0,0" VerticalAlignment="Top" Width="176" FontFamily="Microsoft JhengHei" FontSize="14" FontWeight="Bold" Grid.Row="1"/>
+        <Label Content="Valor Personal Adicional" HorizontalAlignment="Left" Height="26" Margin="561,220,0,0" VerticalAlignment="Top" Width="176" FontFamily="Microsoft JhengHei" FontSize="14" FontWeight="Bold" Grid.Row="1"/>
+        <Label Content="Valor Total del Evento" HorizontalAlignment="Left" Height="37" Margin="561,288,0,0" VerticalAlignment="Top" Width="168" FontFamily="Microsoft JhengHei" FontSize="14" FontWeight="Bold" Grid.Row="1"/>
+        <Label x:Name="lblRazonSocial" Content="Razón social del cliente seleccionado" HorizontalAlignment="Left" Height="26" Margin="361,85,0,0" VerticalAlignment="Top" Width="211" Background="#FF5DBBD6"/>
+        <TextBox x:Name="txtRut" Controls:TextBoxHelper.Watermark="Ingrese Rut" Controls:TextBoxHelper.ClearTextButton="True" HorizontalAlignment="Left" Height="25" Margin="87,85,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="123" KeyDown="txtRut_KeyDown"/>
+        <ComboBox x:Name="cboTipoEvento" HorizontalAlignment="Left" Height="27" Margin="137,151,0,0" VerticalAlignment="Top" Width="107" SelectionChanged="CboTipoEvento_SelectionChanged"/>
+        <ComboBox x:Name="cboModalidad" HorizontalAlignment="Left" Height="26" Margin="414,150,0,0" VerticalAlignment="Top" Width="125" SelectionChanged="CboModalidad_SelectionChanged"/>
+        <TextBox x:Name="txtAsistentes" Controls:TextBoxHelper.ClearTextButton="True" HorizontalAlignment="Left" Height="29" Margin="104,199,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="65" TextChanged="TxtAsistentes_TextChanged"/>
+        <Label x:Name="lblNroPersonal" Content="" HorizontalAlignment="Left" Height="28" Margin="262,200,0,0" VerticalAlignment="Top" Width="48" Background="#FF5DBBD6"/>
+        <TextBox x:Name="txtNroPersonalAdicional"  Controls:TextBoxHelper.ClearTextButton="True" HorizontalAlignment="Left" Height="28" Margin="448,200,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="62" TextChanged="TxtNroPersonalAdicional_TextChanged"/>
+        <TextBox x:Name="txtObservaciones" Controls:TextBoxHelper.Watermark="Ingrese Observaciones" Controls:TextBoxHelper.ClearTextButton="True" HorizontalAlignment="Left" Height="99" Margin="448,47,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="167" RenderTransformOrigin="1.065,0.599" Grid.Row="1"/>
+
+
+
+
+        <Button x:Name="btnBuscarContrato" Content="BUSCAR CONTRATO" HorizontalAlignment="Left" Height="25" Margin="230,48,0,0" VerticalAlignment="Top" Width="144" Background="#FF40CBFF" Click="BtnBuscarContrato_Click"/>
+        <Button x:Name="btnCrearContrato"  HorizontalAlignment="Left" Height="85" Margin="9,234,0,0" VerticalAlignment="Top" Width="95" Background="#FFE4D327" Click="Button_Click" Grid.Row="1">
+            <Image Source="imagenes/grabarrrr.png" HorizontalAlignment="Center" Width="62" Height="78" VerticalAlignment="Center" RenderTransformOrigin="0.528,0.495"/>
+        </Button>
+        <Button x:Name="btnBuscarContrato1"  HorizontalAlignment="Left" Height="85" Margin="424,234,0,0" VerticalAlignment="Top" Width="86" Background="#FFE4D327" Click="BtnBuscarContrato1_Click" Grid.Row="1">
+            <Image Source="imagenes/buscar.png" HorizontalAlignment="Center" Width="66" Height="68" VerticalAlignment="Center" RenderTransformOrigin="0.528,0.495"/>
+        </Button>
+        <Button x:Name="btnActualizarContrato" HorizontalAlignment="Left" Height="85" Margin="218,234,0,0" VerticalAlignment="Top" Width="83" Background="#FFE4D327" Click="BtnActualizarContrato_Click" Grid.Row="1">
+            <Image Source="imagenes/actualizar.png" HorizontalAlignment="Center" Width="60" Height="60" VerticalAlignment="Center" RenderTransformOrigin="0.528,0.495"/>
+        </Button>
+        <Button x:Name="btnListarContratos" HorizontalAlignment="Left" Height="85" Margin="114,234,0,0" VerticalAlignment="Top" Width="85" Background="#FFE4D327" Click="BtnListarContratos_Click" Grid.Row="1">
+            <Image Source="imagenes/guardar.png" HorizontalAlignment="Center" Width="66" Height="78" VerticalAlignment="Center" RenderTransformOrigin="0.528,0.495"/>
+        </Button>
+        <Button x:Name="btnTerminoContrato" HorizontalAlignment="Left" Height="85" Margin="315,234,0,0" VerticalAlignment="Top" Width="86" Background="#FFE4D327" Click="BtnTerminoContrato_Click" Grid.Row="1">
+            <Image Source="imagenes/cerrar.png" HorizontalAlignment="Center" Width="70" Height="75" VerticalAlignment="Center" RenderTransformOrigin="0.528,0.495"/>
+        </Button>
+        <Image Source="imagenes/aa.png" Margin="831,0,0,187"/>
+        <DatePicker x:Name="dtpFechaCreacion" HorizontalAlignment="Left" Height="26" Margin="681,9,0,0" VerticalAlignment="Top" Width="145"/>
+        <TextBox x:Name="txtNumero" Controls:TextBoxHelper.Watermark="" Controls:TextBoxHelper.ClearTextButton="True" HorizontalAlignment="Left" Height="29" Margin="87,48,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="123"/>
+        <Label Content="Aprete enter para buscar &#xA;     el cliente." HorizontalAlignment="Center" Height="40" Margin="239,78,571,148" VerticalAlignment="Center" Width="105" Foreground="#FF555555"/>
+        <Label Content="Listar Contratos..." HorizontalAlignment="Left" Height="27" Margin="113,297,0,0" VerticalAlignment="Top" Width="86" Foreground="White" FontSize="11" Grid.Row="1"/>
+        <Label Content="Actualizar Contrato" HorizontalAlignment="Left" Height="27" Margin="215,297,0,0" VerticalAlignment="Top" Width="86" Foreground="White" FontSize="11" Grid.Row="1"/>
+        <Label Content="Guardar Contrato" HorizontalAlignment="Left" Height="27" Margin="9,298,0,0" VerticalAlignment="Top" Width="95" Foreground="White" FontSize="11" Grid.Row="1"/>
+        <Label Content="Termino Contrato" HorizontalAlignment="Left" Height="27" Margin="315,298,0,0" VerticalAlignment="Top" Width="94" Foreground="White" FontSize="10" Grid.Row="1"/>
+        <TextBox x:Name="txtValorBase" HorizontalAlignment="Left" Height="26" Margin="752,151,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="63"  Background="#FF5DBBD6" Grid.Row="1" IsEnabled="False"/>
+        <TextBox x:Name="txtValorAsistente" HorizontalAlignment="Left" Height="18" Margin="752,186,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="63" Background="#FF5DBBD6" Grid.Row="1" IsEnabled="False"/>
+        <TextBox x:Name="txtValorPersonalAd" HorizontalAlignment="Left" Height="4" Margin="752,220,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="63" Background="#FF5DBBD6" Grid.Row="1" IsEnabled="False"/>
+        <TextBox x:Name="txtValorTotal" HorizontalAlignment="Left" Height="18" Margin="752,291,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="63" Background="#FF005066" Foreground="White" Grid.Row="1" IsEnabled="False"/>
+        <WpfControlLibrary1:UserControl1 x:Name="ctrFechaInicio" HorizontalAlignment="Left" Height="100" Margin="621,105,0,0" VerticalAlignment="Top" Width="284"/>
+        <WpfControlLibrary1:UserControl1 x:Name="ctrFechaFin" HorizontalAlignment="Left" Height="100" Margin="634,0,0,0" Grid.Row="1" VerticalAlignment="Top" Width="271"/>
+        <GroupBox x:Name="grbSeleccione" Header="Seleccione un tipo de Evento" HorizontalAlignment="Left" Height="175" Margin="17,11,0,0" Grid.Row="1" VerticalAlignment="Top" Width="293">
+            <Grid Margin="5,0,0,5"/>
+        </GroupBox>
+        <GroupBox x:Name="grbCocktail" Header="Cocktail" HorizontalAlignment="Left" Height="175" Margin="24,10,0,0" VerticalAlignment="Top" Width="350" Grid.Row="1" Visibility="Hidden">
+            <Grid Margin="5,0,0,5">
+                <CheckBox x:Name="chkAmbientacionCocktail" Content="Ambientacion" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Checked="ChkAmbientacionCocktail_Checked" Unchecked="ChkAmbientacionCocktail_Unchecked"/>
+                <Label x:Name="lblTipoAmbientacionCocktail" Content="Tipo de Ambientacion" HorizontalAlignment="Left" Margin="10,44,0,0" VerticalAlignment="Top"/>
+                <ComboBox x:Name="cboTipoAmbientacionCocktail" HorizontalAlignment="Left" Margin="10,70,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="CboTipoAmbientacionCocktail_SelectionChanged"/>
+                <CheckBox x:Name="chkMusicaAmbientalCocktail" Content="Musica Ambiental" HorizontalAlignment="Left" Margin="184,10,0,0" VerticalAlignment="Top" Checked="ChkMusicaAmbientalCocktail_Checked" Unchecked="ChkMusicaAmbientalCocktail_Unchecked"/>
+                <CheckBox x:Name="chkClienteProveeMusica" Content="Cliente Provee Musica" HorizontalAlignment="Left" Margin="184,33,0,0" VerticalAlignment="Top" IsEnabled="False"/>
+            </Grid>
+        </GroupBox>
+        <Label Content="Valor Extra" HorizontalAlignment="Left" Height="26" Margin="562,260,0,0" VerticalAlignment="Top" Width="167" FontFamily="Microsoft JhengHei" FontSize="14" FontWeight="Bold" Grid.Row="1"/>
+        <TextBox x:Name="txtValorExtra" HorizontalAlignment="Left" Height="4" Margin="753,260,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="62" Background="#FF5DBBD6" Grid.Row="1" IsEnabled="False"/>
+        <GroupBox x:Name="grbCenas" Header="Cenas" HorizontalAlignment="Left" Height="202" Margin="24,10,0,0" VerticalAlignment="Top" Width="385" Grid.Row="1" Visibility="Hidden">
+            <Grid Margin="5,0,0,5">
+                <Label x:Name="lblTipoAmbientacionCenas" Content="Tipo de Ambientacion" HorizontalAlignment="Left" Margin="10,6,0,0" VerticalAlignment="Top"/>
+                <ComboBox x:Name="cboTipoAmbientacionCenas" HorizontalAlignment="Left" Margin="10,32,0,0" VerticalAlignment="Top" Width="137" SelectionChanged="CboTipoAmbientacionCenas_SelectionChanged"/>
+                <CheckBox x:Name="chkMusicaAmbientalCenas" Content="Musica Ambiental" HorizontalAlignment="Left" Margin="187,18,0,0" VerticalAlignment="Top" Checked="ChkMusicaAmbientalCenas_Checked"/>
+                <RadioButton x:Name="rbtLocalOnBreak" Content="Local OnBreak" HorizontalAlignment="Left" Margin="10,75,0,0" VerticalAlignment="Top" GroupName="local" IsChecked="True" Checked="RbtLocalOnBreak_Checked"/>
+                <RadioButton x:Name="rbtOtroLocal" Content="Otro Local" HorizontalAlignment="Left" Margin="10,98,0,0" VerticalAlignment="Top" Width="100" GroupName="local" Checked="RbtOtroLocal_Checked"/>
+                <Label x:Name="lblValorArriendo" Content="Valor Arriendo" HorizontalAlignment="Left" Margin="145,90,0,0" VerticalAlignment="Top" Width="90" Visibility="Hidden"/>
+                <Label x:Name="lblComision" Content="Comision" HorizontalAlignment="Left" Margin="158,121,0,0" VerticalAlignment="Top" Visibility="Hidden"/>
+                <TextBox x:Name="txtValorArriendo" HorizontalAlignment="Left" Height="23" Margin="240,90,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Visibility="Hidden" TextChanged="TxtValorArriendo_TextChanged"/>
+                <TextBox x:Name="txtComision" HorizontalAlignment="Left" Height="23" Margin="240,121,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Visibility="Hidden"/>
+            </Grid>
+        </GroupBox>
+        <GroupBox x:Name="grbCoffeeBreak" Header="Coffee Break" HorizontalAlignment="Left" Height="175" Margin="24,11,0,0" VerticalAlignment="Top" Width="377" Grid.Row="1" Visibility="Hidden">
+            <Grid Margin="5,0,0,5">
+                <RadioButton x:Name="rbtVegetariana" Content="Alimentacion Vegetariana" HorizontalAlignment="Left" Margin="93,37,0,0" VerticalAlignment="Top" GroupName="alimentacion"/>
+                <RadioButton x:Name="rbtMixta" Content="Alimentacion Mixta" HorizontalAlignment="Left" Margin="93,73,0,0" VerticalAlignment="Top" Width="159" GroupName="alimentacion" IsChecked="True"/>
+            </Grid>
+        </GroupBox>
+        <TextBox x:Name="txtValorBaseUF" HorizontalAlignment="Left" Height="26" Margin="847,151,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58"  Background="#FF5DBBD6" Grid.Row="1" IsEnabled="False"/>
+        <TextBox x:Name="txtValorAsistenteUF" HorizontalAlignment="Left" Height="18" Margin="847,186,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" Background="#FF5DBBD6" Grid.Row="1" IsEnabled="False"/>
+        <TextBox x:Name="txtValorPersonalUF" HorizontalAlignment="Left" Height="4" Margin="847,220,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" Background="#FF5DBBD6" Grid.Row="1" IsEnabled="False"/>
+        <TextBox x:Name="txtValorTotalUF" HorizontalAlignment="Left" Height="18" Margin="847,291,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" Background="#FF005066" Foreground="White" Grid.Row="1" IsEnabled="False"/>
+        <TextBox x:Name="txtValorExtraUF" HorizontalAlignment="Left" Height="4" Margin="848,260,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="57" Background="#FF5DBBD6" Grid.Row="1" IsEnabled="False"/>
+        <Label x:Name="lblUF" Content="UF" HorizontalAlignment="Left" Margin="774,120,0,0" Grid.Row="1" VerticalAlignment="Top"/>
+        <Label x:Name="label" Content="Pesos" HorizontalAlignment="Left" Margin="848,120,0,0" Grid.Row="1" VerticalAlignment="Top" Width="57"/>
+        <TextBox x:Name="txtValorActualUF" HorizontalAlignment="Left" Height="18" Margin="448,184,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="91" Background="#FF5DBBD6" Grid.Row="1" TextChanged="TxtValorActualUF_TextChanged" IsEnabled="False"/>
+        <Label x:Name="lblValorUF" Content="Valor Actual UF" HorizontalAlignment="Left" Margin="448,153,0,0" Grid.Row="1" VerticalAlignment="Top"/>
+        <Button x:Name="btnLimpiarDatos" Content="Limpiar Datos" HorizontalAlignment="Left" Height="30" Margin="182,5,0,0" VerticalAlignment="Top" Width="115" Background="#FF40CBFF" Click="BtnLimpiarDatos_Click"/>
+        <Button x:Name="btnCopia" Content="Copia de Seguridad" HorizontalAlignment="Left" Height="30" Margin="17,5,0,0" VerticalAlignment="Top" Width="133" Background="#FF40CBFF" Click="BtnCopia_Click"/>
+
+    </Grid>
+</Controls:MetroWindow>

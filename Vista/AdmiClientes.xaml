@@ -1,0 +1,56 @@
+﻿<Controls:MetroWindow x:Class="Vista.AdmiClientes"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Vista"
+        mc:Ignorable="d"
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+        xmlns:behaviours="clr-namespace:MahApps.Metro.Behaviours;assembly=MahApps.Metro"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        Title="                           ADMINISTRACIÓN DE CLIENTES" Height="606" Width="467" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Label x:Name="lblRut" Content="Rut" HorizontalAlignment="Left" Height="26" Margin="36,74,0,0" VerticalAlignment="Top" Width="70" FontSize="14" FontWeight="Bold" FontFamily="Microsoft JhengHei UI"/>
+        <Label x:Name="lblRazonSocial" Content="Razón Social" HorizontalAlignment="Left" Height="36" Margin="36,171,0,0" VerticalAlignment="Top" Width="104" FontSize="14" FontFamily="Microsoft JhengHei UI" FontWeight="Bold"/>
+        <Label x:Name="lblNombreContacto" Content="Nombre Contacto" HorizontalAlignment="Left" Height="27" Margin="36,124,0,0" VerticalAlignment="Top" Width="133" FontSize="14" FontFamily="Microsoft JhengHei UI" FontWeight="Bold"/>
+        <Label x:Name="lblMailContacto" Content="Mail Contacto" HorizontalAlignment="Left" Height="27" Margin="36,230,0,0" VerticalAlignment="Top" Width="104" FontFamily="Microsoft JhengHei UI" FontWeight="Bold" FontSize="14"/>
+        <Label x:Name="lblDireccion" Content="Dirección" HorizontalAlignment="Left" Height="27" Margin="36,278,0,0" VerticalAlignment="Top" Width="82" FontFamily="Microsoft JhengHei UI" FontSize="14" FontWeight="Bold"/>
+        <Label x:Name="lblTelefono" Content="Teléfono" HorizontalAlignment="Left" Height="32" Margin="36,331,0,0" VerticalAlignment="Top" Width="70" FontSize="14" FontFamily="Microsoft JhengHei UI" FontWeight="Bold" RenderTransformOrigin="0.214,-1"/>
+        <Label x:Name="lblActividadEmpresa" Content="Actividad Empresa" HorizontalAlignment="Left" Height="27" Margin="36,389,0,0" VerticalAlignment="Top" Width="144" FontFamily="Microsoft JhengHei UI" FontWeight="Bold" FontSize="14" RenderTransformOrigin="0.275,-1.852"/>
+        <Label x:Name="lblTipoEmpresa" Content="Tipo Empresa" HorizontalAlignment="Left" Height="27" Margin="239,389,0,0" VerticalAlignment="Top" Width="135" FontFamily="Microsoft JhengHei UI" FontSize="14" FontWeight="Bold"/>
+        <TextBox x:Name="txtRut" Controls:TextBoxHelper.Watermark="Ingrese Rut" Controls:TextBoxHelper.ClearTextButton="True" HorizontalAlignment="Left" Height="24" Margin="67,93,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="181" TextChanged="TxtRut_TextChanged"/>
+        <TextBox x:Name="txtRazonSocial" Controls:TextBoxHelper.Watermark="Ingrese Razon Social" Controls:TextBoxHelper.ClearTextButton="True" HorizontalAlignment="Left" Height="27" Margin="67,198,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="236"/>
+        <TextBox x:Name="txtNombreContacto" Controls:TextBoxHelper.Watermark="Ingrese Nombre Contacto" Controls:TextBoxHelper.ClearTextButton="True" HorizontalAlignment="Left" Height="27" Margin="67,151,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="236"/>
+        <TextBox x:Name="txtMailContacto" Controls:TextBoxHelper.Watermark="Ingrese Mail de Contacto" Controls:TextBoxHelper.ClearTextButton="True" HorizontalAlignment="Left" Height="27" Margin="67,257,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="236"/>
+        <TextBox x:Name="txtDireccion" Controls:TextBoxHelper.Watermark="Ingrese Dirección" Controls:TextBoxHelper.ClearTextButton="True" HorizontalAlignment="Left" Height="27" Margin="67,305,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="236"/>
+        <TextBox x:Name="txtTelefono" Controls:TextBoxHelper.Watermark="Ingrese Teléfono" Controls:TextBoxHelper.ClearTextButton="True" HorizontalAlignment="Left" Height="12" Margin="67,358,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="236" RenderTransformOrigin="0.333,0.615"/>
+        <ComboBox x:Name="cboActividadEmpresa" HorizontalAlignment="Left" Height="27" Margin="53,421,0,0" VerticalAlignment="Top" Width="127" SelectionChanged="CboActividadEmpresa_SelectionChanged"/>
+        <ComboBox x:Name="cboTipoEmpresa" HorizontalAlignment="Left" Height="19" Margin="239,422,0,0" VerticalAlignment="Top" Width="126" />
+        <Button x:Name="btnGrabar"  HorizontalAlignment="Left" Height="81
+                " Margin="342,178,0,0" VerticalAlignment="Top" Width="81" Background="#FFE4D327" Click="BtnGrabar_Click">
+            <Image Source="imagenes/grabarrrr.png" HorizontalAlignment="Center" Width="59" Height="60" VerticalAlignment="Center" RenderTransformOrigin="0.528,0.495"/>
+        </Button>
+        <Button x:Name="btnBuscar" HorizontalAlignment="Left" Height="56" Margin="254,74,0,0" VerticalAlignment="Top" Width="111" Background="#FFE4D327" Click="BtnBuscar_Click">
+
+            <Image Source="imagenes/buscar.png" HorizontalAlignment="Center" Width="42" Height="30" VerticalAlignment="Center" RenderTransformOrigin="0.734,0.54"/>
+        </Button>
+
+        <Button x:Name="btnActualizar" HorizontalAlignment="Left" Height="81" Margin="266,473,0,0" VerticalAlignment="Top" Width="81" Background="#FFE4D327" Click="BtnActualizar_Click">
+            <Image Source="imagenes/actualizar.png" HorizontalAlignment="Center" Width="64" Height="63" VerticalAlignment="Center" RenderTransformOrigin="0.734,0.54"/>
+        </Button>
+
+        <Button x:Name="btnEliminar"  HorizontalAlignment="Left" Height="81" Margin="79,473,0,0" VerticalAlignment="Top" Width="81" Background="#FFE4D327" Click="BtnEliminar_Click">
+            <Image Source="imagenes/eliminar.png" HorizontalAlignment="Center" Width="62" Height="82" VerticalAlignment="Center" RenderTransformOrigin="0.734,0.54" />
+        </Button>
+        <Image Source="imagenes/aa.png" Margin="193,-25,188,477"></Image>
+        <Button x:Name="btnListaCli" HorizontalAlignment="Left" Height="81" Margin="342,292,0,0" VerticalAlignment="Top" Width="81
+                " Background="#FFE4D327" Click="BtnListaCli_Click">
+            <Image Source="imagenes/guardar.png" HorizontalAlignment="Center" Width="73" Height="71" VerticalAlignment="Center" RenderTransformOrigin="0.5,0.5"/>
+        </Button>
+        <Label Content="Listar Cliente..." Margin="342,350,39,204" Foreground="White" FontSize="11"/>
+        <Label Content="Guardar..." HorizontalAlignment="Left" Height="22" Margin="342,237,0,0" VerticalAlignment="Top" Width="59" Foreground="White" FontSize="11"/>
+        <Label Content="Actualizar..." HorizontalAlignment="Left" Height="23" Margin="266,531,0,0" VerticalAlignment="Top" Width="69" Foreground="White" FontSize="11"/>
+        <Label Content="Eliminar..." HorizontalAlignment="Left" Height="24" Margin="79,531,0,0" VerticalAlignment="Top" Width="61" FontSize="11" Foreground="White"/>
+        <Label Content="Buscar         Cliente..." HorizontalAlignment="Left" Height="30" Margin="253,100,0,0" VerticalAlignment="Top" Width="112" FontSize="11" Foreground="White"/>
+    </Grid>
+</Controls:MetroWindow>

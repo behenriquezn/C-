@@ -1,0 +1,20 @@
+C:\Users\pc\Desktop\Prueba2-master\WS_UF\bin\WS_UF.dll.config
+C:\Users\pc\Desktop\Prueba2-master\WS_UF\bin\WS_UF.dll
+C:\Users\pc\Desktop\Prueba2-master\WS_UF\bin\WS_UF.pdb
+C:\Users\pc\Desktop\Prueba2-master\WS_UF\obj\Debug\WS_UF.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\Prueba2-master\WS_UF\obj\Debug\WS_UF.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Prueba2-master\WS_UF\obj\Debug\WS_UF.dll
+C:\Users\pc\Desktop\Prueba2-master\WS_UF\obj\Debug\WS_UF.pdb
+C:\Users\pc\Desktop\Prueba2-master\WS_UF\bin\Newtonsoft.Json.dll
+C:\Users\pc\Desktop\Prueba2-master\WS_UF\bin\Newtonsoft.Json.xml
+C:\Users\pc\Desktop\Prueba2-master\WS_UF\obj\Debug\WS_UF.csproj.CopyComplete
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\WS_UF\bin\WS_UF.dll.config
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\WS_UF\bin\WS_UF.dll
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\WS_UF\bin\WS_UF.pdb
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\WS_UF\bin\Newtonsoft.Json.dll
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\WS_UF\bin\Newtonsoft.Json.xml
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\WS_UF\obj\Debug\WS_UF.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\WS_UF\obj\Debug\WS_UF.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\WS_UF\obj\Debug\WS_UF.csproj.CopyComplete
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\WS_UF\obj\Debug\WS_UF.dll
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\WS_UF\obj\Debug\WS_UF.pdb

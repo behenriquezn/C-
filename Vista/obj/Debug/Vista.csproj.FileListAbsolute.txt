@@ -1,0 +1,667 @@
+C:\Users\paula\Downloads\Prueba2-master\Prueba2-master\Vista\bin\Debug\Vista.exe.config
+C:\Users\paula\Downloads\Prueba2-master\Prueba2-master\Vista\bin\Debug\Vista.exe
+C:\Users\paula\Downloads\Prueba2-master\Prueba2-master\Vista\bin\Debug\Vista.pdb
+C:\Users\paula\Downloads\Prueba2-master\Prueba2-master\Vista\bin\Debug\ControlzEx.dll
+C:\Users\paula\Downloads\Prueba2-master\Prueba2-master\Vista\bin\Debug\MahApps.Metro.dll
+C:\Users\paula\Downloads\Prueba2-master\Prueba2-master\Vista\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\paula\Downloads\Prueba2-master\Prueba2-master\Vista\bin\Debug\ControlzEx.pdb
+C:\Users\paula\Downloads\Prueba2-master\Prueba2-master\Vista\bin\Debug\MahApps.Metro.pdb
+C:\Users\paula\Downloads\Prueba2-master\Prueba2-master\Vista\bin\Debug\MahApps.Metro.xml
+C:\Users\paula\Downloads\Prueba2-master\Prueba2-master\Vista\obj\Debug\Vista.csprojAssemblyReference.cache
+C:\Users\paula\Downloads\Prueba2-master\Prueba2-master\Vista\obj\Debug\Resources\Icons.baml
+C:\Users\paula\Downloads\Prueba2-master\Prueba2-master\Vista\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\paula\Downloads\Prueba2-master\Prueba2-master\Vista\obj\Debug\AdmiClientes.g.cs
+C:\Users\paula\Downloads\Prueba2-master\Prueba2-master\Vista\obj\Debug\AdmiContratos.g.cs
+C:\Users\paula\Downloads\Prueba2-master\Prueba2-master\Vista\obj\Debug\ListaClientes.g.cs
+C:\Users\paula\Downloads\Prueba2-master\Prueba2-master\Vista\obj\Debug\ListaContratos.g.cs
+C:\Users\paula\Downloads\Prueba2-master\Prueba2-master\Vista\obj\Debug\Menu.g.cs
+C:\Users\paula\Downloads\Prueba2-master\Prueba2-master\Vista\obj\Debug\App.g.cs
+C:\Users\paula\Downloads\Prueba2-master\Prueba2-master\Vista\obj\Debug\Vista_MarkupCompile.cache
+C:\Users\paula\Downloads\Prueba2-master\Prueba2-master\Vista\obj\Debug\Vista_MarkupCompile.lref
+C:\Users\paula\Downloads\Prueba2-master\Prueba2-master\Vista\obj\Debug\App.baml
+C:\Users\paula\Downloads\Prueba2-master\Prueba2-master\Vista\obj\Debug\AdmiClientes.baml
+C:\Users\paula\Downloads\Prueba2-master\Prueba2-master\Vista\obj\Debug\AdmiContratos.baml
+C:\Users\paula\Downloads\Prueba2-master\Prueba2-master\Vista\obj\Debug\ListaClientes.baml
+C:\Users\paula\Downloads\Prueba2-master\Prueba2-master\Vista\obj\Debug\ListaContratos.baml
+C:\Users\paula\Downloads\Prueba2-master\Prueba2-master\Vista\obj\Debug\Menu.baml
+C:\Users\paula\Downloads\Prueba2-master\Prueba2-master\Vista\obj\Debug\Vista.g.resources
+C:\Users\paula\Downloads\Prueba2-master\Prueba2-master\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\paula\Downloads\Prueba2-master\Prueba2-master\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\paula\Downloads\Prueba2-master\Prueba2-master\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\paula\Downloads\Prueba2-master\Prueba2-master\Vista\obj\Debug\Vista.csproj.CopyComplete
+C:\Users\paula\Downloads\Prueba2-master\Prueba2-master\Vista\obj\Debug\Vista.exe
+C:\Users\paula\Downloads\Prueba2-master\Prueba2-master\Vista\obj\Debug\Vista.pdb
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Vista\bin\Debug\Vista.exe.config
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Vista\bin\Debug\Vista.exe
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Vista\bin\Debug\Vista.pdb
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Vista\bin\Debug\ControlzEx.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Vista\bin\Debug\MahApps.Metro.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Vista\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Vista\bin\Debug\ControlzEx.pdb
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Vista\bin\Debug\MahApps.Metro.pdb
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Vista\bin\Debug\MahApps.Metro.xml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Vista\obj\Debug\Vista.csprojAssemblyReference.cache
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Vista\obj\Debug\Resources\Icons.baml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Vista\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Vista\obj\Debug\AdmiClientes.g.cs
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Vista\obj\Debug\AdmiContratos.g.cs
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Vista\obj\Debug\ListaClientes.g.cs
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Vista\obj\Debug\ListaContratos.g.cs
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Vista\obj\Debug\Menu.g.cs
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Vista\obj\Debug\App.g.cs
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Vista\obj\Debug\Vista_MarkupCompile.cache
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Vista\obj\Debug\Vista_MarkupCompile.lref
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Vista\obj\Debug\App.baml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Vista\obj\Debug\AdmiClientes.baml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Vista\obj\Debug\AdmiContratos.baml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Vista\obj\Debug\ListaClientes.baml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Vista\obj\Debug\ListaContratos.baml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Vista\obj\Debug\Menu.baml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Vista\obj\Debug\Vista.g.resources
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Vista\obj\Debug\Vista.csproj.CopyComplete
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Vista\obj\Debug\Vista.exe
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Vista\obj\Debug\Vista.pdb
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Vista\bin\Debug\Biblioteca.DALC.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Vista\bin\Debug\Biblioteca.Negocio.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Vista\bin\Debug\EntityFramework.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Vista\bin\Debug\Biblioteca.DALC.pdb
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Vista\bin\Debug\Biblioteca.DALC.dll.config
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Vista\bin\Debug\Biblioteca.Negocio.pdb
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Vista\bin\Debug\Biblioteca.Negocio.dll.config
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Vista\bin\Debug\EntityFramework.xml
+\\Mac\Home\Documents\Prueba2-master\Vista\obj\Debug\Resources\Icons.baml
+\\Mac\Home\Documents\Prueba2-master\Vista\obj\Debug\Resources\IconsNonShared.baml
+\\Mac\Home\Documents\Prueba2-master\Vista\obj\Debug\AdmiClientes.g.cs
+\\Mac\Home\Documents\Prueba2-master\Vista\obj\Debug\AdmiContratos.g.cs
+\\Mac\Home\Documents\Prueba2-master\Vista\obj\Debug\ListaClientes.g.cs
+\\Mac\Home\Documents\Prueba2-master\Vista\obj\Debug\ListaContratos.g.cs
+\\Mac\Home\Documents\Prueba2-master\Vista\obj\Debug\Menu.g.cs
+\\Mac\Home\Documents\Prueba2-master\Vista\obj\Debug\App.g.cs
+\\Mac\Home\Documents\Prueba2-master\Vista\obj\Debug\Vista_MarkupCompile.cache
+\\Mac\Home\Documents\Prueba2-master\Vista\obj\Debug\Vista_MarkupCompile.lref
+\\Mac\Home\Documents\Prueba2-master\Vista\obj\Debug\Vista.exe
+\\Mac\Home\Documents\Prueba2-master\Vista\obj\Debug\Vista.pdb
+\\Mac\Home\Documents\Prueba2-master\Vista\bin\Debug\Vista.exe.config
+\\Mac\Home\Documents\Prueba2-master\Vista\bin\Debug\Vista.exe
+\\Mac\Home\Documents\Prueba2-master\Vista\bin\Debug\Vista.pdb
+\\Mac\Home\Documents\Prueba2-master\Vista\bin\Debug\Biblioteca.DALC.dll
+\\Mac\Home\Documents\Prueba2-master\Vista\bin\Debug\Biblioteca.Negocio.dll
+\\Mac\Home\Documents\Prueba2-master\Vista\bin\Debug\ControlzEx.dll
+\\Mac\Home\Documents\Prueba2-master\Vista\bin\Debug\EntityFramework.dll
+\\Mac\Home\Documents\Prueba2-master\Vista\bin\Debug\MahApps.Metro.dll
+\\Mac\Home\Documents\Prueba2-master\Vista\bin\Debug\System.Windows.Interactivity.dll
+\\Mac\Home\Documents\Prueba2-master\Vista\bin\Debug\Biblioteca.DALC.pdb
+\\Mac\Home\Documents\Prueba2-master\Vista\bin\Debug\Biblioteca.DALC.dll.config
+\\Mac\Home\Documents\Prueba2-master\Vista\bin\Debug\Biblioteca.Negocio.pdb
+\\Mac\Home\Documents\Prueba2-master\Vista\bin\Debug\Biblioteca.Negocio.dll.config
+\\Mac\Home\Documents\Prueba2-master\Vista\bin\Debug\ControlzEx.pdb
+\\Mac\Home\Documents\Prueba2-master\Vista\bin\Debug\EntityFramework.xml
+\\Mac\Home\Documents\Prueba2-master\Vista\bin\Debug\MahApps.Metro.pdb
+\\Mac\Home\Documents\Prueba2-master\Vista\bin\Debug\MahApps.Metro.xml
+\\Mac\Home\Documents\Prueba2-master\Vista\obj\Debug\App.baml
+\\Mac\Home\Documents\Prueba2-master\Vista\obj\Debug\AdmiClientes.baml
+\\Mac\Home\Documents\Prueba2-master\Vista\obj\Debug\AdmiContratos.baml
+\\Mac\Home\Documents\Prueba2-master\Vista\obj\Debug\ListaClientes.baml
+\\Mac\Home\Documents\Prueba2-master\Vista\obj\Debug\ListaContratos.baml
+\\Mac\Home\Documents\Prueba2-master\Vista\obj\Debug\Menu.baml
+\\Mac\Home\Documents\Prueba2-master\Vista\obj\Debug\Vista.g.resources
+\\Mac\Home\Documents\Prueba2-master\Vista\obj\Debug\Vista.Properties.Resources.resources
+\\Mac\Home\Documents\Prueba2-master\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Prueba2-master\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Prueba2-master\Vista\obj\Debug\Vista.csproj.CopyComplete
+\\Mac\Home\Documents\Prueba2-master\Vista\obj\Debug\Vista.csprojAssemblyReference.cache
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Vista\bin\Debug\Vista.exe.config
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Vista\bin\Debug\Vista.exe
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Vista\bin\Debug\Vista.pdb
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Vista\bin\Debug\Biblioteca.DALC.dll
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Vista\bin\Debug\Biblioteca.Negocio.dll
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Vista\bin\Debug\ControlzEx.dll
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Vista\bin\Debug\EntityFramework.dll
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Vista\bin\Debug\MahApps.Metro.dll
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Vista\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Vista\bin\Debug\Biblioteca.DALC.pdb
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Vista\bin\Debug\Biblioteca.DALC.dll.config
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Vista\bin\Debug\Biblioteca.Negocio.pdb
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Vista\bin\Debug\Biblioteca.Negocio.dll.config
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Vista\bin\Debug\ControlzEx.pdb
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Vista\bin\Debug\EntityFramework.xml
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Vista\bin\Debug\MahApps.Metro.pdb
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Vista\bin\Debug\MahApps.Metro.xml
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Vista\obj\Debug\Vista.csprojAssemblyReference.cache
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Vista\obj\Debug\Resources\Icons.baml
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Vista\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Vista\obj\Debug\AdmiClientes.g.cs
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Vista\obj\Debug\AdmiContratos.g.cs
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Vista\obj\Debug\ListaClientes.g.cs
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Vista\obj\Debug\ListaContratos.g.cs
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Vista\obj\Debug\Menu.g.cs
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Vista\obj\Debug\App.g.cs
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Vista\obj\Debug\Vista_MarkupCompile.cache
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Vista\obj\Debug\Vista_MarkupCompile.lref
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Vista\obj\Debug\App.baml
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Vista\obj\Debug\AdmiClientes.baml
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Vista\obj\Debug\AdmiContratos.baml
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Vista\obj\Debug\ListaClientes.baml
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Vista\obj\Debug\ListaContratos.baml
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Vista\obj\Debug\Menu.baml
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Vista\obj\Debug\Vista.g.resources
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Vista\obj\Debug\Vista.csproj.CopyComplete
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Vista\obj\Debug\Vista.exe
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Vista\obj\Debug\Vista.pdb
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.2\Vista\bin\Debug\Vista.exe.config
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.2\Vista\bin\Debug\Vista.exe
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.2\Vista\bin\Debug\Vista.pdb
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.2\Vista\bin\Debug\Biblioteca.DALC.dll
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.2\Vista\bin\Debug\Biblioteca.Negocio.dll
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.2\Vista\bin\Debug\ControlzEx.dll
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.2\Vista\bin\Debug\EntityFramework.dll
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.2\Vista\bin\Debug\MahApps.Metro.dll
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.2\Vista\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.2\Vista\bin\Debug\Biblioteca.DALC.pdb
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.2\Vista\bin\Debug\Biblioteca.DALC.dll.config
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.2\Vista\bin\Debug\Biblioteca.Negocio.pdb
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.2\Vista\bin\Debug\Biblioteca.Negocio.dll.config
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.2\Vista\bin\Debug\ControlzEx.pdb
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.2\Vista\bin\Debug\EntityFramework.xml
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.2\Vista\bin\Debug\MahApps.Metro.pdb
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.2\Vista\bin\Debug\MahApps.Metro.xml
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.2\Vista\obj\Debug\Vista.csprojAssemblyReference.cache
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.2\Vista\obj\Debug\Resources\Icons.baml
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.2\Vista\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.2\Vista\obj\Debug\AdmiClientes.g.cs
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.2\Vista\obj\Debug\AdmiContratos.g.cs
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.2\Vista\obj\Debug\ListaClientes.g.cs
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.2\Vista\obj\Debug\ListaContratos.g.cs
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.2\Vista\obj\Debug\Menu.g.cs
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.2\Vista\obj\Debug\App.g.cs
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.2\Vista\obj\Debug\Vista_MarkupCompile.cache
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.2\Vista\obj\Debug\Vista_MarkupCompile.lref
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.2\Vista\obj\Debug\App.baml
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.2\Vista\obj\Debug\AdmiClientes.baml
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.2\Vista\obj\Debug\AdmiContratos.baml
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.2\Vista\obj\Debug\ListaClientes.baml
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.2\Vista\obj\Debug\ListaContratos.baml
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.2\Vista\obj\Debug\Menu.baml
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.2\Vista\obj\Debug\Vista.g.resources
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.2\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.2\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.2\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.2\Vista\obj\Debug\Vista.csproj.CopyComplete
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.2\Vista\obj\Debug\Vista.exe
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.2\Vista\obj\Debug\Vista.pdb
+\\Mac\Home\Documents\Prueba2-master v2.0\Vista\bin\Debug\Vista.exe.config
+\\Mac\Home\Documents\Prueba2-master v2.0\Vista\bin\Debug\Vista.exe
+\\Mac\Home\Documents\Prueba2-master v2.0\Vista\bin\Debug\Vista.pdb
+\\Mac\Home\Documents\Prueba2-master v2.0\Vista\bin\Debug\Biblioteca.DALC.dll
+\\Mac\Home\Documents\Prueba2-master v2.0\Vista\bin\Debug\Biblioteca.Negocio.dll
+\\Mac\Home\Documents\Prueba2-master v2.0\Vista\bin\Debug\ControlzEx.dll
+\\Mac\Home\Documents\Prueba2-master v2.0\Vista\bin\Debug\EntityFramework.dll
+\\Mac\Home\Documents\Prueba2-master v2.0\Vista\bin\Debug\MahApps.Metro.dll
+\\Mac\Home\Documents\Prueba2-master v2.0\Vista\bin\Debug\System.Windows.Interactivity.dll
+\\Mac\Home\Documents\Prueba2-master v2.0\Vista\bin\Debug\Biblioteca.DALC.pdb
+\\Mac\Home\Documents\Prueba2-master v2.0\Vista\bin\Debug\Biblioteca.DALC.dll.config
+\\Mac\Home\Documents\Prueba2-master v2.0\Vista\bin\Debug\Biblioteca.Negocio.pdb
+\\Mac\Home\Documents\Prueba2-master v2.0\Vista\bin\Debug\Biblioteca.Negocio.dll.config
+\\Mac\Home\Documents\Prueba2-master v2.0\Vista\bin\Debug\ControlzEx.pdb
+\\Mac\Home\Documents\Prueba2-master v2.0\Vista\bin\Debug\EntityFramework.xml
+\\Mac\Home\Documents\Prueba2-master v2.0\Vista\bin\Debug\MahApps.Metro.pdb
+\\Mac\Home\Documents\Prueba2-master v2.0\Vista\bin\Debug\MahApps.Metro.xml
+\\Mac\Home\Documents\Prueba2-master v2.0\Vista\obj\Debug\Resources\Icons.baml
+\\Mac\Home\Documents\Prueba2-master v2.0\Vista\obj\Debug\Resources\IconsNonShared.baml
+\\Mac\Home\Documents\Prueba2-master v2.0\Vista\obj\Debug\AdmiClientes.g.cs
+\\Mac\Home\Documents\Prueba2-master v2.0\Vista\obj\Debug\AdmiContratos.g.cs
+\\Mac\Home\Documents\Prueba2-master v2.0\Vista\obj\Debug\ListaClientes.g.cs
+\\Mac\Home\Documents\Prueba2-master v2.0\Vista\obj\Debug\ListaContratos.g.cs
+\\Mac\Home\Documents\Prueba2-master v2.0\Vista\obj\Debug\Menu.g.cs
+\\Mac\Home\Documents\Prueba2-master v2.0\Vista\obj\Debug\App.g.cs
+\\Mac\Home\Documents\Prueba2-master v2.0\Vista\obj\Debug\Vista_MarkupCompile.cache
+\\Mac\Home\Documents\Prueba2-master v2.0\Vista\obj\Debug\Vista_MarkupCompile.lref
+\\Mac\Home\Documents\Prueba2-master v2.0\Vista\obj\Debug\App.baml
+\\Mac\Home\Documents\Prueba2-master v2.0\Vista\obj\Debug\AdmiClientes.baml
+\\Mac\Home\Documents\Prueba2-master v2.0\Vista\obj\Debug\AdmiContratos.baml
+\\Mac\Home\Documents\Prueba2-master v2.0\Vista\obj\Debug\ListaClientes.baml
+\\Mac\Home\Documents\Prueba2-master v2.0\Vista\obj\Debug\ListaContratos.baml
+\\Mac\Home\Documents\Prueba2-master v2.0\Vista\obj\Debug\Menu.baml
+\\Mac\Home\Documents\Prueba2-master v2.0\Vista\obj\Debug\Vista.g.resources
+\\Mac\Home\Documents\Prueba2-master v2.0\Vista\obj\Debug\Vista.Properties.Resources.resources
+\\Mac\Home\Documents\Prueba2-master v2.0\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Prueba2-master v2.0\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Prueba2-master v2.0\Vista\obj\Debug\Vista.csproj.CopyComplete
+\\Mac\Home\Documents\Prueba2-master v2.0\Vista\obj\Debug\Vista.exe
+\\Mac\Home\Documents\Prueba2-master v2.0\Vista\obj\Debug\Vista.pdb
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Vista\bin\Debug\Vista.exe.config
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Vista\bin\Debug\Vista.exe
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Vista\bin\Debug\Vista.pdb
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Vista\bin\Debug\Biblioteca.DALC.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Vista\bin\Debug\Biblioteca.Negocio.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Vista\bin\Debug\ControlzEx.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Vista\bin\Debug\EntityFramework.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Vista\bin\Debug\MahApps.Metro.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Vista\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Vista\bin\Debug\Biblioteca.DALC.pdb
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Vista\bin\Debug\Biblioteca.DALC.dll.config
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Vista\bin\Debug\Biblioteca.Negocio.pdb
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Vista\bin\Debug\Biblioteca.Negocio.dll.config
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Vista\bin\Debug\ControlzEx.pdb
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Vista\bin\Debug\EntityFramework.xml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Vista\bin\Debug\MahApps.Metro.pdb
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Vista\bin\Debug\MahApps.Metro.xml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Vista\obj\Debug\Vista.csprojAssemblyReference.cache
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Vista\obj\Debug\Resources\Icons.baml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Vista\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Vista\obj\Debug\AdmiClientes.g.cs
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Vista\obj\Debug\AdmiContratos.g.cs
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Vista\obj\Debug\ListaClientes.g.cs
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Vista\obj\Debug\ListaContratos.g.cs
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Vista\obj\Debug\Menu.g.cs
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Vista\obj\Debug\App.g.cs
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Vista\obj\Debug\Vista_MarkupCompile.cache
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Vista\obj\Debug\Vista_MarkupCompile.lref
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Vista\obj\Debug\App.baml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Vista\obj\Debug\AdmiClientes.baml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Vista\obj\Debug\AdmiContratos.baml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Vista\obj\Debug\ListaClientes.baml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Vista\obj\Debug\ListaContratos.baml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Vista\obj\Debug\Menu.baml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Vista\obj\Debug\Vista.g.resources
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Vista\obj\Debug\Vista.csproj.CopyComplete
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Vista\obj\Debug\Vista.exe
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Vista\obj\Debug\Vista.pdb
+C:\Users\Freddy\Documents\CONTINGENCIA\DEY\PROBLEMAS\Nueva carpeta (14)\Prueba2-master\Vista\bin\Debug\Vista.exe.config
+C:\Users\Freddy\Documents\CONTINGENCIA\DEY\PROBLEMAS\Nueva carpeta (14)\Prueba2-master\Vista\bin\Debug\Vista.exe
+C:\Users\Freddy\Documents\CONTINGENCIA\DEY\PROBLEMAS\Nueva carpeta (14)\Prueba2-master\Vista\bin\Debug\Vista.pdb
+C:\Users\Freddy\Documents\CONTINGENCIA\DEY\PROBLEMAS\Nueva carpeta (14)\Prueba2-master\Vista\bin\Debug\Biblioteca.DALC.dll
+C:\Users\Freddy\Documents\CONTINGENCIA\DEY\PROBLEMAS\Nueva carpeta (14)\Prueba2-master\Vista\bin\Debug\Biblioteca.Negocio.dll
+C:\Users\Freddy\Documents\CONTINGENCIA\DEY\PROBLEMAS\Nueva carpeta (14)\Prueba2-master\Vista\bin\Debug\ControlzEx.dll
+C:\Users\Freddy\Documents\CONTINGENCIA\DEY\PROBLEMAS\Nueva carpeta (14)\Prueba2-master\Vista\bin\Debug\EntityFramework.dll
+C:\Users\Freddy\Documents\CONTINGENCIA\DEY\PROBLEMAS\Nueva carpeta (14)\Prueba2-master\Vista\bin\Debug\MahApps.Metro.dll
+C:\Users\Freddy\Documents\CONTINGENCIA\DEY\PROBLEMAS\Nueva carpeta (14)\Prueba2-master\Vista\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Freddy\Documents\CONTINGENCIA\DEY\PROBLEMAS\Nueva carpeta (14)\Prueba2-master\Vista\bin\Debug\Biblioteca.DALC.pdb
+C:\Users\Freddy\Documents\CONTINGENCIA\DEY\PROBLEMAS\Nueva carpeta (14)\Prueba2-master\Vista\bin\Debug\Biblioteca.Negocio.pdb
+C:\Users\Freddy\Documents\CONTINGENCIA\DEY\PROBLEMAS\Nueva carpeta (14)\Prueba2-master\Vista\bin\Debug\ControlzEx.pdb
+C:\Users\Freddy\Documents\CONTINGENCIA\DEY\PROBLEMAS\Nueva carpeta (14)\Prueba2-master\Vista\bin\Debug\EntityFramework.xml
+C:\Users\Freddy\Documents\CONTINGENCIA\DEY\PROBLEMAS\Nueva carpeta (14)\Prueba2-master\Vista\bin\Debug\MahApps.Metro.pdb
+C:\Users\Freddy\Documents\CONTINGENCIA\DEY\PROBLEMAS\Nueva carpeta (14)\Prueba2-master\Vista\bin\Debug\MahApps.Metro.xml
+C:\Users\Freddy\Documents\CONTINGENCIA\DEY\PROBLEMAS\Nueva carpeta (14)\Prueba2-master\Vista\obj\Debug\Vista.csprojResolveAssemblyReference.cache
+C:\Users\Freddy\Documents\CONTINGENCIA\DEY\PROBLEMAS\Nueva carpeta (14)\Prueba2-master\Vista\obj\Debug\Resources\Icons.baml
+C:\Users\Freddy\Documents\CONTINGENCIA\DEY\PROBLEMAS\Nueva carpeta (14)\Prueba2-master\Vista\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Freddy\Documents\CONTINGENCIA\DEY\PROBLEMAS\Nueva carpeta (14)\Prueba2-master\Vista\obj\Debug\AdmiClientes.g.cs
+C:\Users\Freddy\Documents\CONTINGENCIA\DEY\PROBLEMAS\Nueva carpeta (14)\Prueba2-master\Vista\obj\Debug\AdmiContratos.g.cs
+C:\Users\Freddy\Documents\CONTINGENCIA\DEY\PROBLEMAS\Nueva carpeta (14)\Prueba2-master\Vista\obj\Debug\ListaClientes.g.cs
+C:\Users\Freddy\Documents\CONTINGENCIA\DEY\PROBLEMAS\Nueva carpeta (14)\Prueba2-master\Vista\obj\Debug\ListaContratos.g.cs
+C:\Users\Freddy\Documents\CONTINGENCIA\DEY\PROBLEMAS\Nueva carpeta (14)\Prueba2-master\Vista\obj\Debug\Menu.g.cs
+C:\Users\Freddy\Documents\CONTINGENCIA\DEY\PROBLEMAS\Nueva carpeta (14)\Prueba2-master\Vista\obj\Debug\App.g.cs
+C:\Users\Freddy\Documents\CONTINGENCIA\DEY\PROBLEMAS\Nueva carpeta (14)\Prueba2-master\Vista\obj\Debug\Vista_MarkupCompile.cache
+C:\Users\Freddy\Documents\CONTINGENCIA\DEY\PROBLEMAS\Nueva carpeta (14)\Prueba2-master\Vista\obj\Debug\Vista_MarkupCompile.lref
+C:\Users\Freddy\Documents\CONTINGENCIA\DEY\PROBLEMAS\Nueva carpeta (14)\Prueba2-master\Vista\obj\Debug\App.baml
+C:\Users\Freddy\Documents\CONTINGENCIA\DEY\PROBLEMAS\Nueva carpeta (14)\Prueba2-master\Vista\obj\Debug\AdmiClientes.baml
+C:\Users\Freddy\Documents\CONTINGENCIA\DEY\PROBLEMAS\Nueva carpeta (14)\Prueba2-master\Vista\obj\Debug\AdmiContratos.baml
+C:\Users\Freddy\Documents\CONTINGENCIA\DEY\PROBLEMAS\Nueva carpeta (14)\Prueba2-master\Vista\obj\Debug\ListaClientes.baml
+C:\Users\Freddy\Documents\CONTINGENCIA\DEY\PROBLEMAS\Nueva carpeta (14)\Prueba2-master\Vista\obj\Debug\ListaContratos.baml
+C:\Users\Freddy\Documents\CONTINGENCIA\DEY\PROBLEMAS\Nueva carpeta (14)\Prueba2-master\Vista\obj\Debug\Menu.baml
+C:\Users\Freddy\Documents\CONTINGENCIA\DEY\PROBLEMAS\Nueva carpeta (14)\Prueba2-master\Vista\obj\Debug\Vista.g.resources
+C:\Users\Freddy\Documents\CONTINGENCIA\DEY\PROBLEMAS\Nueva carpeta (14)\Prueba2-master\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\Freddy\Documents\CONTINGENCIA\DEY\PROBLEMAS\Nueva carpeta (14)\Prueba2-master\Vista\obj\Debug\Vista.csproj.GenerateResource.Cache
+C:\Users\Freddy\Documents\CONTINGENCIA\DEY\PROBLEMAS\Nueva carpeta (14)\Prueba2-master\Vista\obj\Debug\Vista.exe
+C:\Users\Freddy\Documents\CONTINGENCIA\DEY\PROBLEMAS\Nueva carpeta (14)\Prueba2-master\Vista\obj\Debug\Vista.pdb
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Vista\bin\Debug\Vista.exe.config
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Vista\bin\Debug\Vista.exe
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Vista\bin\Debug\Vista.pdb
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Vista\bin\Debug\Biblioteca.DALC.dll
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Vista\bin\Debug\Biblioteca.Negocio.dll
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Vista\bin\Debug\ControlzEx.dll
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Vista\bin\Debug\EntityFramework.dll
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Vista\bin\Debug\MahApps.Metro.dll
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Vista\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Vista\bin\Debug\Biblioteca.DALC.pdb
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Vista\bin\Debug\Biblioteca.DALC.dll.config
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Vista\bin\Debug\Biblioteca.Negocio.pdb
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Vista\bin\Debug\Biblioteca.Negocio.dll.config
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Vista\bin\Debug\ControlzEx.pdb
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Vista\bin\Debug\EntityFramework.xml
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Vista\bin\Debug\MahApps.Metro.pdb
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Vista\bin\Debug\MahApps.Metro.xml
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Vista\obj\Debug\Resources\Icons.baml
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Vista\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Vista\obj\Debug\AdmiClientes.g.cs
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Vista\obj\Debug\AdmiContratos.g.cs
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Vista\obj\Debug\ListaClientes.g.cs
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Vista\obj\Debug\ListaContratos.g.cs
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Vista\obj\Debug\Menu.g.cs
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Vista\obj\Debug\App.g.cs
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Vista\obj\Debug\Vista_MarkupCompile.cache
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Vista\obj\Debug\Vista_MarkupCompile.lref
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Vista\obj\Debug\App.baml
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Vista\obj\Debug\AdmiClientes.baml
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Vista\obj\Debug\AdmiContratos.baml
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Vista\obj\Debug\ListaClientes.baml
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Vista\obj\Debug\ListaContratos.baml
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Vista\obj\Debug\Menu.baml
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Vista\obj\Debug\Vista.g.resources
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Vista\obj\Debug\Vista.csproj.CopyComplete
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Vista\obj\Debug\Vista.exe
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Vista\obj\Debug\Vista.pdb
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Vista\obj\Debug\Vista.csprojAssemblyReference.cache
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Vista\bin\Debug\WpfControlLibrary1.dll
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Vista\bin\Debug\WpfControlLibrary1.pdb
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\Vista\bin\Debug\Vista.exe.config
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\Vista\bin\Debug\Vista.exe
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\Vista\bin\Debug\Vista.pdb
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\Vista\bin\Debug\Biblioteca.DALC.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\Vista\bin\Debug\Biblioteca.Negocio.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\Vista\bin\Debug\ControlzEx.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\Vista\bin\Debug\EntityFramework.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\Vista\bin\Debug\MahApps.Metro.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\Vista\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\Vista\bin\Debug\WpfControlLibrary1.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\Vista\bin\Debug\WpfControlLibrary1.pdb
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\Vista\bin\Debug\Biblioteca.DALC.pdb
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\Vista\bin\Debug\Biblioteca.DALC.dll.config
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\Vista\bin\Debug\Biblioteca.Negocio.pdb
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\Vista\bin\Debug\Biblioteca.Negocio.dll.config
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\Vista\bin\Debug\ControlzEx.pdb
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\Vista\bin\Debug\EntityFramework.xml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\Vista\bin\Debug\MahApps.Metro.pdb
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\Vista\bin\Debug\MahApps.Metro.xml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\Vista\obj\Debug\Vista.csprojAssemblyReference.cache
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\Vista\obj\Debug\Resources\Icons.baml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\Vista\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\Vista\obj\Debug\AdmiClientes.g.cs
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\Vista\obj\Debug\AdmiContratos.g.cs
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\Vista\obj\Debug\ListaClientes.g.cs
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\Vista\obj\Debug\ListaContratos.g.cs
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\Vista\obj\Debug\Menu.g.cs
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\Vista\obj\Debug\App.g.cs
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\Vista\obj\Debug\Vista_MarkupCompile.cache
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\Vista\obj\Debug\Vista_MarkupCompile.lref
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\Vista\obj\Debug\App.baml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\Vista\obj\Debug\AdmiClientes.baml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\Vista\obj\Debug\AdmiContratos.baml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\Vista\obj\Debug\ListaClientes.baml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\Vista\obj\Debug\ListaContratos.baml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\Vista\obj\Debug\Menu.baml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\Vista\obj\Debug\Vista.g.resources
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\Vista\obj\Debug\Vista.csproj.CopyComplete
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\Vista\obj\Debug\Vista.exe
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2\Prueba2-master\Vista\obj\Debug\Vista.pdb
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2.2\Prueba2-master\Vista\bin\Debug\Vista.exe.config
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2.2\Prueba2-master\Vista\bin\Debug\Vista.exe
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2.2\Prueba2-master\Vista\bin\Debug\Vista.pdb
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2.2\Prueba2-master\Vista\bin\Debug\Biblioteca.DALC.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2.2\Prueba2-master\Vista\bin\Debug\Biblioteca.Negocio.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2.2\Prueba2-master\Vista\bin\Debug\ControlzEx.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2.2\Prueba2-master\Vista\bin\Debug\EntityFramework.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2.2\Prueba2-master\Vista\bin\Debug\MahApps.Metro.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2.2\Prueba2-master\Vista\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2.2\Prueba2-master\Vista\bin\Debug\WpfControlLibrary1.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2.2\Prueba2-master\Vista\bin\Debug\WpfControlLibrary1.pdb
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2.2\Prueba2-master\Vista\bin\Debug\Biblioteca.DALC.pdb
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2.2\Prueba2-master\Vista\bin\Debug\Biblioteca.DALC.dll.config
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2.2\Prueba2-master\Vista\bin\Debug\Biblioteca.Negocio.pdb
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2.2\Prueba2-master\Vista\bin\Debug\Biblioteca.Negocio.dll.config
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2.2\Prueba2-master\Vista\bin\Debug\ControlzEx.pdb
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2.2\Prueba2-master\Vista\bin\Debug\EntityFramework.xml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2.2\Prueba2-master\Vista\bin\Debug\MahApps.Metro.pdb
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2.2\Prueba2-master\Vista\bin\Debug\MahApps.Metro.xml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2.2\Prueba2-master\Vista\obj\Debug\Vista.csprojAssemblyReference.cache
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2.2\Prueba2-master\Vista\obj\Debug\Resources\Icons.baml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2.2\Prueba2-master\Vista\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2.2\Prueba2-master\Vista\obj\Debug\AdmiClientes.g.cs
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2.2\Prueba2-master\Vista\obj\Debug\AdmiContratos.g.cs
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2.2\Prueba2-master\Vista\obj\Debug\ListaClientes.g.cs
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2.2\Prueba2-master\Vista\obj\Debug\ListaContratos.g.cs
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2.2\Prueba2-master\Vista\obj\Debug\Menu.g.cs
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2.2\Prueba2-master\Vista\obj\Debug\App.g.cs
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2.2\Prueba2-master\Vista\obj\Debug\Vista_MarkupCompile.cache
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2.2\Prueba2-master\Vista\obj\Debug\Vista_MarkupCompile.lref
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2.2\Prueba2-master\Vista\obj\Debug\App.baml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2.2\Prueba2-master\Vista\obj\Debug\AdmiClientes.baml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2.2\Prueba2-master\Vista\obj\Debug\AdmiContratos.baml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2.2\Prueba2-master\Vista\obj\Debug\ListaClientes.baml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2.2\Prueba2-master\Vista\obj\Debug\ListaContratos.baml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2.2\Prueba2-master\Vista\obj\Debug\Menu.baml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2.2\Prueba2-master\Vista\obj\Debug\Vista.g.resources
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2.2\Prueba2-master\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2.2\Prueba2-master\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2.2\Prueba2-master\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2.2\Prueba2-master\Vista\obj\Debug\Vista.csproj.CopyComplete
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2.2\Prueba2-master\Vista\obj\Debug\Vista.exe
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master ver 2.2\Prueba2-master\Vista\obj\Debug\Vista.pdb
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\Vista\bin\Debug\Vista.exe.config
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\Vista\bin\Debug\Vista.exe
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\Vista\bin\Debug\Vista.pdb
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\Vista\bin\Debug\Biblioteca.DALC.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\Vista\bin\Debug\Biblioteca.Negocio.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\Vista\bin\Debug\ControlzEx.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\Vista\bin\Debug\EntityFramework.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\Vista\bin\Debug\MahApps.Metro.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\Vista\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\Vista\bin\Debug\WpfControlLibrary1.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\Vista\bin\Debug\WpfControlLibrary1.pdb
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\Vista\bin\Debug\Biblioteca.DALC.pdb
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\Vista\bin\Debug\Biblioteca.DALC.dll.config
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\Vista\bin\Debug\Biblioteca.Negocio.pdb
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\Vista\bin\Debug\Biblioteca.Negocio.dll.config
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\Vista\bin\Debug\ControlzEx.pdb
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\Vista\bin\Debug\EntityFramework.xml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\Vista\bin\Debug\MahApps.Metro.pdb
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\Vista\bin\Debug\MahApps.Metro.xml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\Vista\obj\Debug\Vista.csprojAssemblyReference.cache
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\Vista\obj\Debug\Resources\Icons.baml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\Vista\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\Vista\obj\Debug\AdmiClientes.g.cs
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\Vista\obj\Debug\AdmiContratos.g.cs
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\Vista\obj\Debug\ListaClientes.g.cs
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\Vista\obj\Debug\ListaContratos.g.cs
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\Vista\obj\Debug\Menu.g.cs
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\Vista\obj\Debug\App.g.cs
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\Vista\obj\Debug\Vista_MarkupCompile.cache
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\Vista\obj\Debug\Vista_MarkupCompile.lref
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\Vista\obj\Debug\App.baml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\Vista\obj\Debug\AdmiClientes.baml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\Vista\obj\Debug\AdmiContratos.baml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\Vista\obj\Debug\ListaClientes.baml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\Vista\obj\Debug\ListaContratos.baml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\Vista\obj\Debug\Menu.baml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\Vista\obj\Debug\Vista.g.resources
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\Vista\obj\Debug\Vista.csproj.CopyComplete
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\Vista\obj\Debug\Vista.exe
+C:\Users\fabia\OneDrive\Escritorio\Prueba2 - GG\Prueba2-master\Vista\obj\Debug\Vista.pdb
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Vista\bin\Debug\Vista.exe.config
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Vista\bin\Debug\Vista.exe
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Vista\bin\Debug\Vista.pdb
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Vista\bin\Debug\Biblioteca.DALC.dll
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Vista\bin\Debug\Biblioteca.Negocio.dll
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Vista\bin\Debug\ControlzEx.dll
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Vista\bin\Debug\EntityFramework.dll
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Vista\bin\Debug\MahApps.Metro.dll
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Vista\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Vista\bin\Debug\WpfControlLibrary1.dll
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Vista\bin\Debug\WpfControlLibrary1.pdb
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Vista\bin\Debug\Biblioteca.DALC.pdb
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Vista\bin\Debug\Biblioteca.DALC.dll.config
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Vista\bin\Debug\Biblioteca.Negocio.pdb
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Vista\bin\Debug\Biblioteca.Negocio.dll.config
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Vista\bin\Debug\ControlzEx.pdb
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Vista\bin\Debug\EntityFramework.xml
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Vista\bin\Debug\MahApps.Metro.pdb
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Vista\bin\Debug\MahApps.Metro.xml
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Vista\obj\Debug\Vista.csprojAssemblyReference.cache
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Vista\obj\Debug\Resources\Icons.baml
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Vista\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Vista\obj\Debug\AdmiClientes.g.cs
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Vista\obj\Debug\AdmiContratos.g.cs
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Vista\obj\Debug\ListaClientes.g.cs
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Vista\obj\Debug\ListaContratos.g.cs
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Vista\obj\Debug\Menu.g.cs
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Vista\obj\Debug\App.g.cs
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Vista\obj\Debug\Vista_MarkupCompile.cache
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Vista\obj\Debug\Vista_MarkupCompile.lref
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Vista\obj\Debug\App.baml
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Vista\obj\Debug\AdmiClientes.baml
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Vista\obj\Debug\AdmiContratos.baml
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Vista\obj\Debug\ListaClientes.baml
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Vista\obj\Debug\ListaContratos.baml
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Vista\obj\Debug\Menu.baml
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Vista\obj\Debug\Vista.g.resources
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Vista\obj\Debug\Vista.csproj.CopyComplete
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Vista\obj\Debug\Vista.exe
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Vista\obj\Debug\Vista.pdb
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Vista\bin\Debug\WpfControlLibrary1.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Vista\bin\Debug\WpfControlLibrary1.pdb
+C:\Users\pc\Desktop\Prueba2-master\Vista\bin\Debug\Vista.exe.config
+C:\Users\pc\Desktop\Prueba2-master\Vista\bin\Debug\Vista.exe
+C:\Users\pc\Desktop\Prueba2-master\Vista\bin\Debug\Vista.pdb
+C:\Users\pc\Desktop\Prueba2-master\Vista\bin\Debug\Biblioteca.DALC.dll
+C:\Users\pc\Desktop\Prueba2-master\Vista\bin\Debug\Biblioteca.Negocio.dll
+C:\Users\pc\Desktop\Prueba2-master\Vista\bin\Debug\ControlzEx.dll
+C:\Users\pc\Desktop\Prueba2-master\Vista\bin\Debug\EntityFramework.dll
+C:\Users\pc\Desktop\Prueba2-master\Vista\bin\Debug\MahApps.Metro.dll
+C:\Users\pc\Desktop\Prueba2-master\Vista\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\pc\Desktop\Prueba2-master\Vista\bin\Debug\WpfControlLibrary1.dll
+C:\Users\pc\Desktop\Prueba2-master\Vista\bin\Debug\WpfControlLibrary1.pdb
+C:\Users\pc\Desktop\Prueba2-master\Vista\bin\Debug\Biblioteca.DALC.pdb
+C:\Users\pc\Desktop\Prueba2-master\Vista\bin\Debug\Biblioteca.DALC.dll.config
+C:\Users\pc\Desktop\Prueba2-master\Vista\bin\Debug\Biblioteca.Negocio.pdb
+C:\Users\pc\Desktop\Prueba2-master\Vista\bin\Debug\Biblioteca.Negocio.dll.config
+C:\Users\pc\Desktop\Prueba2-master\Vista\bin\Debug\ControlzEx.pdb
+C:\Users\pc\Desktop\Prueba2-master\Vista\bin\Debug\EntityFramework.xml
+C:\Users\pc\Desktop\Prueba2-master\Vista\bin\Debug\MahApps.Metro.pdb
+C:\Users\pc\Desktop\Prueba2-master\Vista\bin\Debug\MahApps.Metro.xml
+C:\Users\pc\Desktop\Prueba2-master\Vista\obj\Debug\Vista.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\Prueba2-master\Vista\obj\Debug\Resources\Icons.baml
+C:\Users\pc\Desktop\Prueba2-master\Vista\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\pc\Desktop\Prueba2-master\Vista\obj\Debug\AdmiClientes.g.cs
+C:\Users\pc\Desktop\Prueba2-master\Vista\obj\Debug\AdmiContratos.g.cs
+C:\Users\pc\Desktop\Prueba2-master\Vista\obj\Debug\ListaClientes.g.cs
+C:\Users\pc\Desktop\Prueba2-master\Vista\obj\Debug\ListaContratos.g.cs
+C:\Users\pc\Desktop\Prueba2-master\Vista\obj\Debug\Menu.g.cs
+C:\Users\pc\Desktop\Prueba2-master\Vista\obj\Debug\App.g.cs
+C:\Users\pc\Desktop\Prueba2-master\Vista\obj\Debug\Vista_MarkupCompile.cache
+C:\Users\pc\Desktop\Prueba2-master\Vista\obj\Debug\Vista_MarkupCompile.lref
+C:\Users\pc\Desktop\Prueba2-master\Vista\obj\Debug\App.baml
+C:\Users\pc\Desktop\Prueba2-master\Vista\obj\Debug\AdmiClientes.baml
+C:\Users\pc\Desktop\Prueba2-master\Vista\obj\Debug\AdmiContratos.baml
+C:\Users\pc\Desktop\Prueba2-master\Vista\obj\Debug\ListaClientes.baml
+C:\Users\pc\Desktop\Prueba2-master\Vista\obj\Debug\ListaContratos.baml
+C:\Users\pc\Desktop\Prueba2-master\Vista\obj\Debug\Menu.baml
+C:\Users\pc\Desktop\Prueba2-master\Vista\obj\Debug\Vista.g.resources
+C:\Users\pc\Desktop\Prueba2-master\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\pc\Desktop\Prueba2-master\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Prueba2-master\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Prueba2-master\Vista\obj\Debug\Vista.csproj.CopyComplete
+C:\Users\pc\Desktop\Prueba2-master\Vista\obj\Debug\Vista.exe
+C:\Users\pc\Desktop\Prueba2-master\Vista\obj\Debug\Vista.pdb
+C:\Users\pc\Desktop\Prueba2-master\Vista\bin\Debug\ToggleClass.pdb
+C:\Users\pc\Desktop\Prueba2-master\Vista\bin\Debug\ToggleClass.dll.config
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\Vista\bin\Debug\Vista.exe.config
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\Vista\bin\Debug\Vista.exe
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\Vista\bin\Debug\Vista.pdb
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\Vista\bin\Debug\Biblioteca.DALC.dll
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\Vista\bin\Debug\Biblioteca.Negocio.dll
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\Vista\bin\Debug\ControlzEx.dll
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\Vista\bin\Debug\EntityFramework.dll
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\Vista\bin\Debug\MahApps.Metro.dll
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\Vista\bin\Debug\System.Windows.Interactivity.dll
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\Vista\bin\Debug\WpfControlLibrary1.dll
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\Vista\bin\Debug\WpfControlLibrary1.pdb
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\Vista\bin\Debug\Biblioteca.DALC.pdb
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\Vista\bin\Debug\Biblioteca.DALC.dll.config
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\Vista\bin\Debug\Biblioteca.Negocio.pdb
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\Vista\bin\Debug\Biblioteca.Negocio.dll.config
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\Vista\bin\Debug\ControlzEx.pdb
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\Vista\bin\Debug\EntityFramework.xml
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\Vista\bin\Debug\MahApps.Metro.pdb
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\Vista\bin\Debug\MahApps.Metro.xml
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\Vista\bin\Debug\ToggleClass.pdb
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\Vista\bin\Debug\ToggleClass.dll.config
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\Vista\obj\Debug\Vista.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\Vista\obj\Debug\Resources\Icons.baml
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\Vista\obj\Debug\Resources\IconsNonShared.baml
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\Vista\obj\Debug\AdmiClientes.g.cs
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\Vista\obj\Debug\AdmiContratos.g.cs
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\Vista\obj\Debug\ListaClientes.g.cs
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\Vista\obj\Debug\ListaContratos.g.cs
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\Vista\obj\Debug\Menu.g.cs
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\Vista\obj\Debug\App.g.cs
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\Vista\obj\Debug\Vista_MarkupCompile.cache
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\Vista\obj\Debug\Vista_MarkupCompile.lref
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\Vista\obj\Debug\App.baml
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\Vista\obj\Debug\AdmiClientes.baml
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\Vista\obj\Debug\AdmiContratos.baml
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\Vista\obj\Debug\ListaClientes.baml
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\Vista\obj\Debug\ListaContratos.baml
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\Vista\obj\Debug\Menu.baml
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\Vista\obj\Debug\Vista.g.resources
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\Vista\obj\Debug\Vista.Properties.Resources.resources
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\Vista\obj\Debug\Vista.csproj.CopyComplete
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\Vista\obj\Debug\Vista.exe
+\\Mac\Home\Documents\Ahre xdddd\OnBreakFinal 2.8\Prueba2-master\Vista\obj\Debug\Vista.pdb
+C:\Users\pc\Downloads\Prueba2-master\Vista\bin\Debug\Vista.exe.config
+C:\Users\pc\Downloads\Prueba2-master\Vista\bin\Debug\Vista.exe
+C:\Users\pc\Downloads\Prueba2-master\Vista\bin\Debug\Vista.pdb
+C:\Users\pc\Downloads\Prueba2-master\Vista\bin\Debug\Biblioteca.DALC.dll
+C:\Users\pc\Downloads\Prueba2-master\Vista\bin\Debug\Biblioteca.Negocio.dll
+C:\Users\pc\Downloads\Prueba2-master\Vista\bin\Debug\ControlzEx.dll
+C:\Users\pc\Downloads\Prueba2-master\Vista\bin\Debug\EntityFramework.dll
+C:\Users\pc\Downloads\Prueba2-master\Vista\bin\Debug\MahApps.Metro.dll
+C:\Users\pc\Downloads\Prueba2-master\Vista\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\pc\Downloads\Prueba2-master\Vista\bin\Debug\WpfControlLibrary1.dll
+C:\Users\pc\Downloads\Prueba2-master\Vista\bin\Debug\WpfControlLibrary1.pdb
+C:\Users\pc\Downloads\Prueba2-master\Vista\bin\Debug\Biblioteca.DALC.pdb
+C:\Users\pc\Downloads\Prueba2-master\Vista\bin\Debug\Biblioteca.DALC.dll.config
+C:\Users\pc\Downloads\Prueba2-master\Vista\bin\Debug\Biblioteca.Negocio.pdb
+C:\Users\pc\Downloads\Prueba2-master\Vista\bin\Debug\Biblioteca.Negocio.dll.config
+C:\Users\pc\Downloads\Prueba2-master\Vista\bin\Debug\ControlzEx.pdb
+C:\Users\pc\Downloads\Prueba2-master\Vista\bin\Debug\EntityFramework.xml
+C:\Users\pc\Downloads\Prueba2-master\Vista\bin\Debug\MahApps.Metro.pdb
+C:\Users\pc\Downloads\Prueba2-master\Vista\bin\Debug\MahApps.Metro.xml
+C:\Users\pc\Downloads\Prueba2-master\Vista\bin\Debug\ToggleClass.pdb
+C:\Users\pc\Downloads\Prueba2-master\Vista\bin\Debug\ToggleClass.dll.config
+C:\Users\pc\Downloads\Prueba2-master\Vista\obj\Debug\Vista.csprojAssemblyReference.cache
+C:\Users\pc\Downloads\Prueba2-master\Vista\obj\Debug\Resources\Icons.baml
+C:\Users\pc\Downloads\Prueba2-master\Vista\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\pc\Downloads\Prueba2-master\Vista\obj\Debug\AdmiClientes.g.cs
+C:\Users\pc\Downloads\Prueba2-master\Vista\obj\Debug\AdmiContratos.g.cs
+C:\Users\pc\Downloads\Prueba2-master\Vista\obj\Debug\ListaClientes.g.cs
+C:\Users\pc\Downloads\Prueba2-master\Vista\obj\Debug\ListaContratos.g.cs
+C:\Users\pc\Downloads\Prueba2-master\Vista\obj\Debug\Menu.g.cs
+C:\Users\pc\Downloads\Prueba2-master\Vista\obj\Debug\App.g.cs
+C:\Users\pc\Downloads\Prueba2-master\Vista\obj\Debug\Vista_MarkupCompile.cache
+C:\Users\pc\Downloads\Prueba2-master\Vista\obj\Debug\Vista_MarkupCompile.lref
+C:\Users\pc\Downloads\Prueba2-master\Vista\obj\Debug\App.baml
+C:\Users\pc\Downloads\Prueba2-master\Vista\obj\Debug\AdmiClientes.baml
+C:\Users\pc\Downloads\Prueba2-master\Vista\obj\Debug\AdmiContratos.baml
+C:\Users\pc\Downloads\Prueba2-master\Vista\obj\Debug\ListaClientes.baml
+C:\Users\pc\Downloads\Prueba2-master\Vista\obj\Debug\ListaContratos.baml
+C:\Users\pc\Downloads\Prueba2-master\Vista\obj\Debug\Menu.baml
+C:\Users\pc\Downloads\Prueba2-master\Vista\obj\Debug\Vista.g.resources
+C:\Users\pc\Downloads\Prueba2-master\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\pc\Downloads\Prueba2-master\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\pc\Downloads\Prueba2-master\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\Prueba2-master\Vista\obj\Debug\Vista.csproj.CopyComplete
+C:\Users\pc\Downloads\Prueba2-master\Vista\obj\Debug\Vista.exe
+C:\Users\pc\Downloads\Prueba2-master\Vista\obj\Debug\Vista.pdb

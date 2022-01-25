@@ -1,0 +1,98 @@
+C:\Users\paula\Downloads\Prueba2-master\Prueba2-master\Biblioteca.DALC\bin\Debug\Biblioteca.DALC.dll.config
+C:\Users\paula\Downloads\Prueba2-master\Prueba2-master\Biblioteca.DALC\bin\Debug\Biblioteca.DALC.dll
+C:\Users\paula\Downloads\Prueba2-master\Prueba2-master\Biblioteca.DALC\bin\Debug\Biblioteca.DALC.pdb
+C:\Users\paula\Downloads\Prueba2-master\Prueba2-master\Biblioteca.DALC\bin\Debug\EntityFramework.dll
+C:\Users\paula\Downloads\Prueba2-master\Prueba2-master\Biblioteca.DALC\bin\Debug\EntityFramework.xml
+C:\Users\paula\Downloads\Prueba2-master\Prueba2-master\Biblioteca.DALC\obj\Debug\Biblioteca.DALC.csprojAssemblyReference.cache
+C:\Users\paula\Downloads\Prueba2-master\Prueba2-master\Biblioteca.DALC\obj\Debug\Biblioteca.DALC.csproj.CoreCompileInputs.cache
+C:\Users\paula\Downloads\Prueba2-master\Prueba2-master\Biblioteca.DALC\obj\Debug\Biblioteca.DALC.csproj.CopyComplete
+C:\Users\paula\Downloads\Prueba2-master\Prueba2-master\Biblioteca.DALC\obj\Debug\Biblioteca.DALC.dll
+C:\Users\paula\Downloads\Prueba2-master\Prueba2-master\Biblioteca.DALC\obj\Debug\Biblioteca.DALC.pdb
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Biblioteca.DALC\bin\Debug\Biblioteca.DALC.dll.config
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Biblioteca.DALC\bin\Debug\Biblioteca.DALC.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Biblioteca.DALC\bin\Debug\Biblioteca.DALC.pdb
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Biblioteca.DALC\bin\Debug\EntityFramework.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Biblioteca.DALC\bin\Debug\EntityFramework.xml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Biblioteca.DALC\obj\Debug\Biblioteca.DALC.csprojAssemblyReference.cache
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Biblioteca.DALC\obj\Debug\Biblioteca.DALC.csproj.CoreCompileInputs.cache
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Biblioteca.DALC\obj\Debug\Biblioteca.DALC.csproj.CopyComplete
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Biblioteca.DALC\obj\Debug\Biblioteca.DALC.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master\Biblioteca.DALC\obj\Debug\Biblioteca.DALC.pdb
+\\Mac\Home\Documents\Prueba2-master\Biblioteca.DALC\bin\Debug\Biblioteca.DALC.dll.config
+\\Mac\Home\Documents\Prueba2-master\Biblioteca.DALC\bin\Debug\Biblioteca.DALC.dll
+\\Mac\Home\Documents\Prueba2-master\Biblioteca.DALC\bin\Debug\Biblioteca.DALC.pdb
+\\Mac\Home\Documents\Prueba2-master\Biblioteca.DALC\bin\Debug\EntityFramework.dll
+\\Mac\Home\Documents\Prueba2-master\Biblioteca.DALC\bin\Debug\EntityFramework.xml
+\\Mac\Home\Documents\Prueba2-master\Biblioteca.DALC\obj\Debug\Biblioteca.DALC.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Prueba2-master\Biblioteca.DALC\obj\Debug\Biblioteca.DALC.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Prueba2-master\Biblioteca.DALC\obj\Debug\Biblioteca.DALC.csproj.CopyComplete
+\\Mac\Home\Documents\Prueba2-master\Biblioteca.DALC\obj\Debug\Biblioteca.DALC.dll
+\\Mac\Home\Documents\Prueba2-master\Biblioteca.DALC\obj\Debug\Biblioteca.DALC.pdb
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Biblioteca.DALC\bin\Debug\Biblioteca.DALC.dll.config
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Biblioteca.DALC\bin\Debug\Biblioteca.DALC.dll
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Biblioteca.DALC\bin\Debug\Biblioteca.DALC.pdb
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Biblioteca.DALC\bin\Debug\EntityFramework.dll
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Biblioteca.DALC\bin\Debug\EntityFramework.xml
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Biblioteca.DALC\obj\Debug\Biblioteca.DALC.csprojAssemblyReference.cache
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Biblioteca.DALC\obj\Debug\Biblioteca.DALC.csproj.CoreCompileInputs.cache
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Biblioteca.DALC\obj\Debug\Biblioteca.DALC.csproj.CopyComplete
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Biblioteca.DALC\obj\Debug\Biblioteca.DALC.dll
+C:\Users\fabia\OneDrive\Escritorio\Proyectos DEY\Prueba2-master v1.1\Biblioteca.DALC\obj\Debug\Biblioteca.DALC.pdb
+\\Mac\Home\Documents\Prueba2-master v2.0\Biblioteca.DALC\bin\Debug\Biblioteca.DALC.dll.config
+\\Mac\Home\Documents\Prueba2-master v2.0\Biblioteca.DALC\bin\Debug\Biblioteca.DALC.dll
+\\Mac\Home\Documents\Prueba2-master v2.0\Biblioteca.DALC\bin\Debug\Biblioteca.DALC.pdb
+\\Mac\Home\Documents\Prueba2-master v2.0\Biblioteca.DALC\bin\Debug\EntityFramework.dll
+\\Mac\Home\Documents\Prueba2-master v2.0\Biblioteca.DALC\bin\Debug\EntityFramework.xml
+\\Mac\Home\Documents\Prueba2-master v2.0\Biblioteca.DALC\obj\Debug\Biblioteca.DALC.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Prueba2-master v2.0\Biblioteca.DALC\obj\Debug\Biblioteca.DALC.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Prueba2-master v2.0\Biblioteca.DALC\obj\Debug\Biblioteca.DALC.csproj.CopyComplete
+\\Mac\Home\Documents\Prueba2-master v2.0\Biblioteca.DALC\obj\Debug\Biblioteca.DALC.dll
+\\Mac\Home\Documents\Prueba2-master v2.0\Biblioteca.DALC\obj\Debug\Biblioteca.DALC.pdb
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Biblioteca.DALC\bin\Debug\Biblioteca.DALC.dll.config
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Biblioteca.DALC\bin\Debug\Biblioteca.DALC.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Biblioteca.DALC\bin\Debug\Biblioteca.DALC.pdb
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Biblioteca.DALC\bin\Debug\EntityFramework.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Biblioteca.DALC\bin\Debug\EntityFramework.xml
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Biblioteca.DALC\obj\Debug\Biblioteca.DALC.csprojAssemblyReference.cache
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Biblioteca.DALC\obj\Debug\Biblioteca.DALC.csproj.CoreCompileInputs.cache
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Biblioteca.DALC\obj\Debug\Biblioteca.DALC.csproj.CopyComplete
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Biblioteca.DALC\obj\Debug\Biblioteca.DALC.dll
+C:\Users\fabia\OneDrive\Escritorio\Prueba2-master v2.nose\Biblioteca.DALC\obj\Debug\Biblioteca.DALC.pdb
+C:\Users\Freddy\Documents\CONTINGENCIA\DEY\PROBLEMAS\Nueva carpeta (14)\Prueba2-master\Biblioteca.DALC\bin\Debug\Biblioteca.DALC.dll.config
+C:\Users\Freddy\Documents\CONTINGENCIA\DEY\PROBLEMAS\Nueva carpeta (14)\Prueba2-master\Biblioteca.DALC\bin\Debug\Biblioteca.DALC.dll
+C:\Users\Freddy\Documents\CONTINGENCIA\DEY\PROBLEMAS\Nueva carpeta (14)\Prueba2-master\Biblioteca.DALC\bin\Debug\Biblioteca.DALC.pdb
+C:\Users\Freddy\Documents\CONTINGENCIA\DEY\PROBLEMAS\Nueva carpeta (14)\Prueba2-master\Biblioteca.DALC\bin\Debug\EntityFramework.dll
+C:\Users\Freddy\Documents\CONTINGENCIA\DEY\PROBLEMAS\Nueva carpeta (14)\Prueba2-master\Biblioteca.DALC\bin\Debug\EntityFramework.xml
+C:\Users\Freddy\Documents\CONTINGENCIA\DEY\PROBLEMAS\Nueva carpeta (14)\Prueba2-master\Biblioteca.DALC\obj\Debug\Biblioteca.DALC.csprojResolveAssemblyReference.cache
+C:\Users\Freddy\Documents\CONTINGENCIA\DEY\PROBLEMAS\Nueva carpeta (14)\Prueba2-master\Biblioteca.DALC\obj\Debug\Biblioteca.DALC.dll
+C:\Users\Freddy\Documents\CONTINGENCIA\DEY\PROBLEMAS\Nueva carpeta (14)\Prueba2-master\Biblioteca.DALC\obj\Debug\Biblioteca.DALC.pdb
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Biblioteca.DALC\bin\Debug\Biblioteca.DALC.dll.config
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Biblioteca.DALC\bin\Debug\Biblioteca.DALC.dll
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Biblioteca.DALC\bin\Debug\Biblioteca.DALC.pdb
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Biblioteca.DALC\bin\Debug\EntityFramework.dll
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Biblioteca.DALC\bin\Debug\EntityFramework.xml
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Biblioteca.DALC\obj\Debug\Biblioteca.DALC.csproj.CoreCompileInputs.cache
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Biblioteca.DALC\obj\Debug\Biblioteca.DALC.csproj.CopyComplete
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Biblioteca.DALC\obj\Debug\Biblioteca.DALC.dll
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Biblioteca.DALC\obj\Debug\Biblioteca.DALC.pdb
+C:\Users\paula\Downloads\Prueba2-master ver 2\Prueba2-master\Biblioteca.DALC\obj\Debug\Biblioteca.DALC.csprojAssemblyReference.cache
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Biblioteca.DALC\bin\Debug\Biblioteca.DALC.dll.config
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Biblioteca.DALC\bin\Debug\Biblioteca.DALC.dll
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Biblioteca.DALC\bin\Debug\Biblioteca.DALC.pdb
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Biblioteca.DALC\bin\Debug\EntityFramework.dll
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Biblioteca.DALC\bin\Debug\EntityFramework.xml
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Biblioteca.DALC\obj\Debug\Biblioteca.DALC.csprojAssemblyReference.cache
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Biblioteca.DALC\obj\Debug\Biblioteca.DALC.csproj.CoreCompileInputs.cache
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Biblioteca.DALC\obj\Debug\Biblioteca.DALC.csproj.CopyComplete
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Biblioteca.DALC\obj\Debug\Biblioteca.DALC.dll
+C:\Users\paula\Downloads\Prueba2 - GG-20200619T235430Z-001\Prueba2 - GG\Prueba2-master\Biblioteca.DALC\obj\Debug\Biblioteca.DALC.pdb
+C:\Users\pc\Desktop\Prueba2-master\Biblioteca.DALC\bin\Debug\Biblioteca.DALC.dll.config
+C:\Users\pc\Desktop\Prueba2-master\Biblioteca.DALC\bin\Debug\Biblioteca.DALC.dll
+C:\Users\pc\Desktop\Prueba2-master\Biblioteca.DALC\bin\Debug\Biblioteca.DALC.pdb
+C:\Users\pc\Desktop\Prueba2-master\Biblioteca.DALC\bin\Debug\EntityFramework.dll
+C:\Users\pc\Desktop\Prueba2-master\Biblioteca.DALC\bin\Debug\EntityFramework.xml
+C:\Users\pc\Desktop\Prueba2-master\Biblioteca.DALC\obj\Debug\Biblioteca.DALC.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\Prueba2-master\Biblioteca.DALC\obj\Debug\Biblioteca.DALC.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Prueba2-master\Biblioteca.DALC\obj\Debug\Biblioteca.DALC.csproj.CopyComplete
+C:\Users\pc\Desktop\Prueba2-master\Biblioteca.DALC\obj\Debug\Biblioteca.DALC.dll
+C:\Users\pc\Desktop\Prueba2-master\Biblioteca.DALC\obj\Debug\Biblioteca.DALC.pdb
